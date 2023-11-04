@@ -2,7 +2,7 @@
 An English Tech vocabulary database gathered by Inglés para Devs community
 
 ## this my happy contribution to the community
-the file "Vocabulario4Devs-RawData.tsv" has the content of the notion vocabulary page. the columns are separated by "@@", hopfully this will help to build the final version of this unvaluable resource for the community.
+In this deliverable, I'll share with the community the draft version of the notion vocabulary but migth be mistakes please validate it.
 
 ### Google Doc Document
 Here you can get the doc from google docs [Vocabulario4Devs](https://docs.google.com/spreadsheets/d/1YaE8gqMz0drY9-CD1OplWrIGLR0pbd1NuWoZ4IOOo-I/edit?usp=sharing)
