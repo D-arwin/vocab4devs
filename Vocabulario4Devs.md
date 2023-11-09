@@ -408,7 +408,7 @@
 |338	|	backlash	|	consecuencia	|	https://forvo.com/search/backlash/	|	Te backlash of a weak password may be a compromise in the network.|
 |339	|	backslash	|	diagonal invertida	|		|	Remember to use backslash, not the regular slash|
 |340	|	depending on	|	depende de	|	https://youglish.com/pronounce/depending%20on/english?	|	Depending on the salary, I may take the job offer|
-|341	|	escape character	|		|	https://youglish.com/pronounce/escape%20character/english?	|	Backslash n is an escape character|
+|341	|	escape character	|		|	https://youglish.com/pronounce/escape%20character/english?	|	After reviewing the server logs, we are certain that the system outage was caused by a DDoS attack.Backslash n is an escape character|
 |342	|	few other	|	unos cuantos otros	|	https://youglish.com/pronounce/few%20other/english?	|	Besides Python, a few other programming languages are case sensitive.|
 |343	|	prefix	|	prefijar	|	https://forvo.com/search/prefix/	|	You can prefix the value of a variable.|
 |344	|	not quite	|	no exactamente	|	https://youglish.com/pronounce/not%20quite/english?	|	Apple vision is not quite affordable yet.|
@@ -481,7 +481,7 @@
 |409	|	identify	|		|	https://forvo.com/search/identify/	|	|
 |410	|	key value pair	|		|	https://youglish.com/pronounce/key%20value%20pair/english?	|	A Key value pair is a fundamental data structure that consists of a key and its value.|
 |411	|	surrounded by quotation marks	|	entre comillas	|	https://youglish.com/pronounce/surrounded%20by%20quotation%20marks/english?	|	Write your strings surrounded by quotation marks|
-|412	|	certain	|		|		|	|
+|412	|	certain	|	Certero, preciso	| [Certain] (https://forvo.com/search/certain/en/) {:target="_blank"}		|After reviewing the server logs, we are certain that the system outage was caused by a DDoS attack.	|
 |413	|	pass in	|		|		|	|
 |414	|	stands for	|		|		|	|
 |415	|	NDA	|		|		|	|
