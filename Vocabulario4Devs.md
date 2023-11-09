@@ -481,7 +481,7 @@
 |409	|	identify	|		|	https://forvo.com/search/identify/	|	|
 |410	|	key value pair	|		|	https://youglish.com/pronounce/key%20value%20pair/english?	|	A Key value pair is a fundamental data structure that consists of a key and its value.|
 |411	|	surrounded by quotation marks	|	entre comillas	|	https://youglish.com/pronounce/surrounded%20by%20quotation%20marks/english?	|	Write your strings surrounded by quotation marks|
-|412	|	certain	|	Certero, preciso	| [Certain] (https://forvo.com/search/certain/en/) {:target="_blank"}		|After reviewing the server logs, we are certain that the system outage was caused by a DDoS attack.	|
+|412	|	certain	|	Certero, preciso	| [Certain](https://forvo.com/search/certain/en/){:target="_blank"}		|After reviewing the server logs, we are certain that the system outage was caused by a DDoS attack.	|
 |413	|	pass in	|		|		|	|
 |414	|	stands for	|		|		|	|
 |415	|	NDA	|		|		|	|
