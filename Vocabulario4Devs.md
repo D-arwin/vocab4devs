@@ -1,6 +1,6 @@
 | Number | English  | Spanish | Pronunciation  | Example |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
-|1	|	Development	|	Desarrollo	|	[dɪˈvɛləpmənt](https://forvo.com/search/development/)	|	I’m working on the development of a new app|
+|1	|	Development	|	Desarrollo	|	<a href="https://forvo.com/search/development/" target="_blank">dɪˈvɛləpmənt</a>|	I’m working on the development of a new app2|
 |2	|	Data	|	Datos	|	https://youglish.com/pronounce/data/english?	|	The scientist collected a large amount of data|
 |3	|	from scratch	|	Comenzar desde cero	|	https://youglish.com/pronounce/from%20scratch/english?	|	We’re learning how to program from scratch|
 |4	|	Upload	|	Subir	|	https://forvo.com/search/upload/	|	This upload is taking too long|
