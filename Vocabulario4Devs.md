@@ -505,3 +505,5 @@
 |	|	pull down	|		|		|	|
 |	|	commit	|		|		|	|
 |	|	push to origin	|		|		|	|
+|	|	command	|		|		|	|
+|	|	.py	|	|		|	|
