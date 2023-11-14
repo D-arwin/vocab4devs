@@ -489,7 +489,7 @@
 |417	|	line up	|		|		|	|
 |418	|	pass in	|		|		|	|
 |419	|	try outeets	|		|		|	|
-|420	|	Milestone	|		|		|	|
+|420	|	Milestone	|Evento important en tu vida		|[Milestone](https://forvo.com/search/milestone/){:target="_blank"}	|Meeting the first milestone accelerated our software project's progress from design to coding.	|
 |421	|	get up and running	|		|		|	|
 |	|	open source	|		|		|	|
 |	|	revert	|		|		|	|
