@@ -67,119 +67,118 @@
 |15	|	under	|	abajo	|	[ˈʌn.dər](https://forvo.com/search/under/)	|	We are under pressure when coding|
 |16	|	above	|	sobre/arriba	|	[əˈbʌv](https://forvo.com/search/above/)	|	it's crucial to maintain a high level of code quality above all else|
 |17	|	up	|		|	[ʌp](https://forvo.com/search/up/)	|	|
-|18	|	integer	|	entero	|	https://youglish.com/pronounce/integer/english?	|	An integer is a data type that represents a whole number|
-|19	|	whole	|	entero	|	https://youglish.com/pronounce/whole%20/english?	|	An integer is a data type that represents a whole number|
+|18	|	integer	|	entero	|	[ˈɪn.tɪ.dʒər](https://youglish.com/pronounce/integer/english?)	|	An integer is a data type that represents a whole number|
+|19	|	whole	|	entero	|	[həʊl](https://youglish.com/pronounce/whole%20/english?)	|	An integer is a data type that represents a whole number|
 |20	|	dates 1982	|	ten en cuenta ue estas cifras se dicen de dos en dos cuando son fechas	|		|	|
-|21	|	returned	|		|	https://forvo.com/search/returned/	|	The calculator should return the sum of two integer numbers|
-|22	|	101	|	básico	|	https://youglish.com/pronounce/101/english?	|	This is Python 101|
-|23	|	subtract	|	resta	|	https://forvo.com/search/subtract/	|	|
-|24	|	add	|	sumar	|	https://forvo.com/search/add/	|	Add value to your career learning English|
-|25	|	convert to	|	convertir en	|	https://youglish.com/pronounce/convert%20to/english?	|	Keep in mind que el verbo convert utiliza siempre la preposición to  |
+|21	|	returned	|		|	[rɪˈtɜːn](https://forvo.com/search/returned/)	|	The calculator should return the sum of two integer numbers|
+|22	|	101	|	básico	|	[ˌwʌn.əʊˈwʌn](https://youglish.com/pronounce/101/english?)	|	This is Python 101|
+|23	|	subtract	|	resta	|	[səbˈtrækt](https://forvo.com/search/subtract/)	|	|
+|24	|	add	|	sumar	|	[æd](https://forvo.com/search/add/)	|	Add value to your career learning English|
+|25	|	convert to	|	convertir en	|	[kənˈvɜːt tuː](https://youglish.com/pronounce/convert%20to/english?)	|	Keep in mind que el verbo convert utiliza siempre la preposición to  |
 | | |||							I already converted all my money to bitcoin. the function int() converts variables to integer|
-|26	|	a bunch	|	un montón	|	https://youglish.com/pronounce/a%20bunch/english?	|	In today’s session we had a bunch of errors in our code|
-|27	|	Linux	|		|	https://forvo.com/search/linux/	|	Linux is one of the top three Os for coding|
-|28	|	OS	|	Sistema operativo	|	https://youglish.com/pronounce/OS/english?	|	Linux is one of the top three Os for coding|
-|29	|	numeric	|	numeric	|	https://forvo.com/search/numeric/	|	The output of the code was a numeric value|
-|30	|	float/floating	|	flotante	|	https://forvo.com/search/float/	|	A float, short for floating-point number, is a data type used in software development to represent decimal numbers|
-|31	|	sum	|	suma	|	https://forvo.com/search/sum/	|	The sum of two or more values can be calculated using arithmetic operations like addition|
-|32	|	string	|	string/ cadena de caracteres	|	https://es.youglish.com/pronounce/string/english?	|	the problem was that we were adding two strs|
-|33	|	declare	|	declarar	|	https://es.youglish.com/pronounce/declare/english?	|	Developers must declare variables  before using them in their code to avoid errors|
-|34	|	label	|	etiqueta	|	https://es.youglish.com/pronounce/label/english?	|	Adequate labels facilitate quick search|
-|35	|	solve/resolve	|	solve= solucionar en contexto de matematico	|	https://es.youglish.com/pronounce/solve/english?	|	Our code is supposed to solve and  a sum|
+|26	|	a bunch	|	un montón	|	[eɪ bʌntʃ](https://youglish.com/pronounce/a%20bunch/english?)	|	In today’s session we had a bunch of errors in our code|
+|27	|	Linux	|		|	[ˈlɪn.əks](https://forvo.com/search/linux/)	|	Linux is one of the top three Os for coding|
+|28	|	OS	|	Sistema operativo	|	[ɒs](https://youglish.com/pronounce/OS/english?)	|	Linux is one of the top three Os for coding|
+|29	|	numeric	|	numeric	|	[njuːˈmerɪk](https://forvo.com/search/numeric/)	|	The output of the code was a numeric value|
+|30	|	float/floating	|	flotante	|	[fləʊt](https://forvo.com/search/float/)	|	A float, short for floating-point number, is a data type used in software development to represent decimal numbers|
+|31	|	sum	|	suma	|	[sʌm](https://forvo.com/search/sum/)	|	The sum of two or more values can be calculated using arithmetic operations like addition|
+|32	|	string	|	string/ cadena de caracteres	|	[strɪŋ](https://es.youglish.com/pronounce/string/english?)	|	the problem was that we were adding two strs|
+|33	|	declare	|	declarar	|	[dɪˈkleər](https://es.youglish.com/pronounce/declare/english?)	|	Developers must declare variables  before using them in their code to avoid errors|
+|34	|	label	|	etiqueta	|	[ˈleɪ.bəl](https://es.youglish.com/pronounce/label/english?)	|	Adequate labels facilitate quick search|
+|35	|	solve/resolve	|	solve= solucionar en contexto de matematico	|	[sɒlv](https://es.youglish.com/pronounce/solve/english?)	|	Our code is supposed to solve and  a sum|
 |			|	resolve = cuando terminamos una task	|		|	|
-|36	|	requirement	|	requerimiento	|	https://es.youglish.com/pronounce/requirement/english?	|	Requirements must be met before our deadline|
-|37	|	take a look	|	echar un vistazo	|	https://es.youglish.com/pronounce/take%20a%20look/english?	|	take a look at the screen behind me|
-|38	|	went by	|	pasar por un lugar	|	https://es.youglish.com/pronounce/went%20by/english?	|	Time went by really fast today|
-|39	|	purpose	|	propósito	|	https://es.youglish.com/pronounce/purpose/english?	|	the purpose of these live streams is to teach you English in a Software development enviroment|
-|40	|	accurately	|	certeramente	|	https://es.youglish.com/pronounce/accurately/english?	|	We can accurately create a calculator in Python|
-|41	|	like	|	gustar/ parecido a (como)/ lista	|	https://forvo.com/search/likely/	|	I like to code live|
+|36	|	requirement	|	requerimiento	|	[rɪˈkwaɪə.mənt](https://es.youglish.com/pronounce/requirement/english?)	|	Requirements must be met before our deadline|
+|37	|	take a look	|	echar un vistazo	|	[teɪk a lʊk](https://es.youglish.com/pronounce/take%20a%20look/english?)	|	take a look at the screen behind me|
+|38	|	went by	|	pasar por un lugar	|	[went baɪ](https://es.youglish.com/pronounce/went%20by/english?)	|	Time went by really fast today|
+|39	|	purpose	|	propósito	|	[ˈpɜː.pəs](https://es.youglish.com/pronounce/purpose/english?)	|	the purpose of these live streams is to teach you English in a Software development enviroment|
+|40	|	accurately	|	certeramente	|	[ˈæk.jə.rət.li](https://es.youglish.com/pronounce/accurately/english?)	|	We can accurately create a calculator in Python|
+|41	|	like	|	gustar/ parecido a (como)/ lista	|	[laɪk](https://forvo.com/search/likely/)	|	I like to code live|
 | | |||								Java is nothing like Javascript|
 | | |||								Today we used function like, char, find, upper, lower, and so on.|
-|42	|	Object	|	examples	|	https://youglish.com/pronounce/object/english?	|	I’m learning object-oriented programming|
-|43	|	Likely/Unlikely	|	Probable / poco probable	|	https://forvo.com/search/likely/	|	it’s very likely that Elon will get to open a Gigafactory in NL|
+|42	|	Object	|	examples	|	[ˈɒb.dʒɪkt](https://youglish.com/pronounce/object/english?)	|	I’m learning object-oriented programming|
+|43	|	Likely/Unlikely	|	Probable / poco probable	|	[ˈlaɪ.kli](https://forvo.com/search/likely/)	|	it’s very likely that Elon will get to open a Gigafactory in NL|
 | | |||								It’s unlikely that the Gigafactory will become sentient|
-|44	|	Turn something on	|	prender algo / encender algo	|	https://forvo.com/search/turn%20on/	|	Charly turned on the PC|
+|44	|	Turn something on	|	prender algo / encender algo	|	[tɜːn ˈsʌm.θɪŋ ɒn](https://forvo.com/search/turn%20on/)	|	Charly turned on the PC|
 | | |||								Charly turned the PC on|
 | | |||								Charly turned it on|
-|45	|	belong	|	pertenecer	|	https://youglish.com/pronounce/belong/english?	|	Facebook belongs to Meta|
-|46	|	Index	|	indexar	|	https://forvo.com/search/index/	|	Char, upper, and lower are functions that belong to the string method.|
+|45	|	belong	|	pertenecer	|	[bɪˈlɒŋ](https://youglish.com/pronounce/belong/english?)	|	Facebook belongs to Meta|
+|46	|	Index	|	indexar	|	[ˈɪn.deks](https://forvo.com/search/index/)	|	Char, upper, and lower are functions that belong to the string method.|
 | | |||								duckduckgo doesn’t index your searches|
-|47	|	And so on	|	Etcetera, y así, y toda la cosa	|	https://youglish.com/pronounce/and%20so%20on/english?	|	Today we used function like, char, find, upper, lower, and so on.|
-|48	|	three	|	tres	|	https://forvo.com/search/three/	|	thhhhhhhhh|
+|47	|	And so on	|	Etcetera, y así, y toda la cosa	|	[ænd səʊ ɒn](https://youglish.com/pronounce/and%20so%20on/english?)	|	Today we used function like, char, find, upper, lower, and so on.|
+|48	|	three	|	tres	|	[θriː](https://forvo.com/search/three/)	|	thhhhhhhhh|
 |49	|	as I told you before/ Like I told you before	|	Como mencioné anteriormente	|		|	As I told you before, we are not experts|
-|50	|	Replace	|	reemplazar	|	https://forvo.com/search/replace/	|	When you update software, you replace the old version with the new one.|
+|50	|	Replace	|	reemplazar	|	[rɪˈpleɪs](https://forvo.com/search/replace/)	|	When you update software, you replace the old version with the new one.|
 | | |||								In order to replace a character, you need to find it first|
-|51	|	So	|	tan/ entonces	|	https://youglish.com/pronounce/so/english?	|	It’s so easy that anybody can learn English using Python tutorials.|
+|51	|	So	|	tan/ entonces	|	[səʊ](https://youglish.com/pronounce/so/english?)	|	It’s so easy that anybody can learn English using Python tutorials.|
 | | |||								So as I said before|
-|52	|	Well	|	muletilla= esteeeeee fancy	|	https://forvo.com/search/well/	|	|
-|53	|	character	|	caracter	|	https://youglish.com/pronounce/character/english?	|	the upper function helps convert a character into uppercase|
-|54	|	Nothing	|	Nada ( negación)	|	https://forvo.com/search/nothing/	|	Nothing is funnier than reading Elon’s tweets|
-|55	|	Anything	|	Nada/ algo/ cualquier cosa preguntas y oraciones que ya son negativas	|	https://youglish.com/pronounce/anything/english?	|	I didn’t learn anything yesterday|
+|52	|	Well	|	muletilla= esteeeeee fancy	|	[wel](https://forvo.com/search/well/)	|	|
+|53	|	character	|	caracter	|	[ˈkær.ək.tər](https://youglish.com/pronounce/character/english?)	|	the upper function helps convert a character into uppercase|
+|54	|	Nothing	|	Nada ( negación)	|	[ˈnʌθ.ɪŋ](https://forvo.com/search/nothing/)	|	Nothing is funnier than reading Elon’s tweets|
+|55	|	Anything	|	Nada/ algo/ cualquier cosa preguntas y oraciones que ya son negativas	|	[ˈen.i.θɪŋ](https://youglish.com/pronounce/anything/english?)	|	I didn’t learn anything yesterday|
 | | |||								Do you anything?|
-|56	|	In order to	|	Para (explicar un objetivo)	|	https://forvo.com/search/in%20order%20to/	|	In order to save money you gotta work unpaid overtime|
-|57	|	There / they’re / their	|	Ahí(allí) / Ellxs son(están) / suyo de ellos	|	https://youglish.com/pronounce/their/english?	|	There are many popular frameworks such as Pycharm|
+|56	|	In order to	|	Para (explicar un objetivo)	|	[ɪn ˈɔː.dər tʊ](https://forvo.com/search/in%20order%20to/)	|	In order to save money you gotta work unpaid overtime|
+|57	|	There / they’re / their	|	Ahí(allí) / Ellxs son(están) / suyo de ellos	|	[ðeər](https://youglish.com/pronounce/their/english?)	|	There are many popular frameworks such as Pycharm|
 | | |||								They’re studying Python|
 | | |||								Their code is clean/neat|
-|58	|	immutable	|	Inmutable	|	https://forvo.com/search/immutable/	|	Immutable data structures prevent bugs|
-|59	|	operator	|	operador	|	https://youglish.com/pronounce/operator/english?	|	The addition (+) operator concatenates strings|
-|69	|	more desirable	|	Más deseable	|	https://forvo.com/search/desirable/	|	An English speaking programmer is more desirable for remote positions|
-|70	|	gonna/ gotta /hafta /wanna /lemme	|	voy a / tengo que/ tengo que/ quiero /permiteme	|	https://youglish.com/pronounce/gonna/english?	|	-This website is gonna look good in both, web and mobile|
+|58	|	immutable	|	Inmutable	|	[ɪˈmjuː.tə.bəl](https://forvo.com/search/immutable/)	|	Immutable data structures prevent bugs|
+|59	|	operator	|	operador	|	[ˈɒp.ər.eɪ.tər](https://youglish.com/pronounce/operator/english?)	|	The addition (+) operator concatenates strings|
+|69	|	more desirable	|	Más deseable	|	[mɔːr dɪˈzaɪə.rə.bəl](https://forvo.com/search/desirable/)	|	An English speaking programmer is more desirable for remote positions|
+|70	|	gonna/ gotta /hafta /wanna /lemme	|	voy a / tengo que/ tengo que/ quiero /permiteme	|	[ˈgə.nə](https://youglish.com/pronounce/gonna/english?)	|	-This website is gonna look good in both, web and mobile|
 | | |||								-You gotta take a look at this bug|
 | | |||								-Developers hafta keep up the latest technologies|
 | | |||								-I don’t wanna watch Matrix 5|
 | | |||								-Lemme show you some websites I coded|
-|71	|	times	|	veces / multiplicación	|	https://forvo.com/search/times/	|	Virtual has been tried a couple of times|
+|71	|	times	|	veces / multiplicación	|	[taɪmz](https://forvo.com/search/times/)	|	Virtual has been tried a couple of times|
 | | |||								Seven times three equals twenty one|
-|72	|	division	|	división	|	https://youglish.com/pronounce/division/english?	|	We use slash “/” to make a division|
-|73	|	print	|	imprimir	|	https://forvo.com/search/print/	|	Using a double slash in a division prints a whole number (integer)|
-|74	|	multiplication	|	multiplicación	|	https://youglish.com/pronounce/multiplication/english?	|	Using an asterisk returns the result of a multiplication|
-|75	|	different	|	diferente	|	https://forvo.com/search/different/	|	Java is different from Javascript|
-|78	|	comfortable	|	Comodo	|	https://youglish.com/pronounce/comfortable/english?	|	Home office is way more comfortable than the office|
-|79	|	difference/differences	|	Diferencias	|	https://forvo.com/search/difference/	|	There are many differences between Git and Github|
-|80	|	whole	|	entero	|		|	An integer is a whole number|
-|81	|	modulus/ modules	|	modulo	|	https://forvo.com/search/modulus/	|	Modulus is the absolute value of a number regardless the positive or negative sign|
-|82	|	remain/remiander	|	permanecer / residuo	|	https://youglish.com/pronounce/remainder/english?	|	The remainder of 10 divided by 3 is .333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333|
-|83	|	reminder	|	recordar	|	https://forvo.com/search/reminder/	|	Friendly reminder our live streams are Tuesday and Thursday at 8 am CST|
-|84	|	augmented reality	|	realidad aumentada	|	https://youglish.com/pronounce/thousand/english?	|	Pokemon Go innovated in the implementation of augmented reality.|
-|85	|	virtual	|	virtual	|	https://forvo.com/search/virtual/	|	The Metaverse is the most ambitious virtual reality project to date.|
-|86	|	thousand	|	mil	|	https://forvo.com/search/thousand/	|	We just hit a thousand followers on YouTube.|
-|87	|	million	|	millón	|	https://forvo.com/search/million/	|	Inglés Para Devs Spotify podcast is about to reach one million downloads.|
-|88	|	hundred	|	cien	|	https://youglish.com/pronounce/hundred/english?	|	There are a hundred different ways to learn programming in YouTube.|
-|89	|	billion	|	billón	|	https://forvo.com/search/billion/	|	A billion dollars is less money than a billion pesos (MXN).|
-|90	|	set it	|	establecerlo	|	https://youglish.com/pronounce/set%20it/english?	|	The first step is to set X’s value to 5.|
-|91	|	Achieving goals	|	acanzar metas	|	https://forvo.com/search/achieve/	|	A lot of people struggle to achieve their goals, specially learning English.|
-|92	|	called/ cold	|	llamó / frío	|	https://youglish.com/pronounce/called/english?	|	I called you yesterday but you didn’t answer.|
+|72	|	division	|	división	|	[dɪˈvɪʒ.ən](https://youglish.com/pronounce/division/english?)	|	We use slash “/” to make a division|
+|73	|	print	|	imprimir	|	[prɪnt](https://forvo.com/search/print/)	|	Using a double slash in a division prints a whole number (integer)|
+|74	|	multiplication	|	multiplicación	|	[ˌmʌl.tɪ.plɪˈkeɪ.ʃən](https://youglish.com/pronounce/multiplication/english?)	|	Using an asterisk returns the result of a multiplication|
+|75	|	different	|	diferente	|	[ˈdɪf.ər.ənt](https://forvo.com/search/different/)	|	Java is different from Javascript|
+|78	|	comfortable	|	Comodo	|	[ˈkʌm.fə.tə.bəl](https://youglish.com/pronounce/comfortable/english?)	|	Home office is way more comfortable than the office|
+|79	|	difference/differences	|	Diferencias	|	[ˈdɪf.ər.əns](https://forvo.com/search/difference/)	|	There are many differences between Git and Github|
+|81	|	modulus/ modules	|	modulo	|	[ˈmɒd.jə.ləs](https://forvo.com/search/modulus/)	|	Modulus is the absolute value of a number regardless the positive or negative sign|
+|82	|	remain/remiander	|	permanecer / residuo	|	[rɪˈmeɪn.dər](https://youglish.com/pronounce/remainder/english?)	|	The remainder of 10 divided by 3 is .333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333|
+|83	|	reminder	|	recordar	|	[rɪˈmeɪn.dər](https://forvo.com/search/reminder/)	|	Friendly reminder our live streams are Tuesday and Thursday at 8 am CST|
+|84	|	augmented reality	|	realidad aumentada	|	[ɔːgˈment riˈæl.ə.ti](https://youglish.com/pronounce/thousand/english?)	|	Pokemon Go innovated in the implementation of augmented reality.|
+|85	|	virtual	|	virtual	|	[ˈvɜː.tʃu.əl](https://forvo.com/search/virtual/)	|	The Metaverse is the most ambitious virtual reality project to date.|
+|86	|	thousand	|	mil	|	[ˈθaʊ.zənd](https://forvo.com/search/thousand/)	|	We just hit a thousand followers on YouTube.|
+|87	|	million	|	millón	|	[ˈmɪl.jən](https://forvo.com/search/million/)	|	Inglés Para Devs Spotify podcast is about to reach one million downloads.|
+|88	|	hundred	|	cien	|	[ˈhʌn.drəd](https://youglish.com/pronounce/hundred/english?)	|	There are a hundred different ways to learn programming in YouTube.|
+|89	|	billion	|	billón	|	[ˈhʌn.drəd](https://forvo.com/search/billion/)	|	A billion dollars is less money than a billion pesos (MXN).|
+|90	|	set it	|	establecerlo	|	[set ɪt](https://youglish.com/pronounce/set%20it/english?)	|	The first step is to set X’s value to 5.|
+|91	|	Achieving goals	|	acanzar metas	|	[əˈtʃiːvɪŋ ˌgəʊls](https://forvo.com/search/achieve/)	|	A lot of people struggle to achieve their goals, specially learning English.|
+|92	|	called/ cold	|	llamó / frío	|	[kɔːld](https://youglish.com/pronounce/called/english?)	|	I called you yesterday but you didn’t answer.|
 | | |||								My team is designing a website for cold sell.|
-|93	|	augmented assigned operator	|		|	https://forvo.com/search/augmented/	|	|
-|94	|	enhanced	|	fortalecido	|	https://youglish.com/pronounce/enhanced/english?	|	Enhance your next job interview by including some of these phrases in your speech.|
-|95	|	presedence	|	presedencia	|	https://youglish.com/pronounce/presedence/english?	|	Multiplication takes presedence over addition|
-|96	|	parenthesis	|	Parentesis	|	https://forvo.com/search/parenthesis/	|	In programming, parenthesis are used to indicate a function call or to group expressions together.|
-|97	|	verify	|	verificar	|	https://youglish.com/pronounce/verify/english?	|	We need to verify your account|
-|98	|	has got	|	es utilizado para dar una descripción detallada / sacó	|	https://forvo.com/search/has%20got/	|	Carlos has got blue eyes|
-|99	|	set of	|	a collection	|	https://youglish.com/pronounce/set%20of/english?	|	We can call a set of functions in Python|
-|100	|	code / piece of code	|	uncountable / countable	|	https://forvo.com/search/code/	|	This piece of code is giving us problems / The code is messy|
-|101	|	greater than	|	mayor que	|	https://youglish.com/pronounce/greater%20than/english?	|	You have set the variable greater than 10|
-|102	|	answer	|	respuesta	|	https://forvo.com/search/answer/	|	OpenAI is the answer to many problems in the workplace|
-|103	|	determines	|	determina	|	https://youglish.com/pronounce/determiners/english?	|	the algorithm determines the success of a youtube channel|
-|104	|	result	|	resultado	|	https://forvo.com/search/result/	|	the result of 3 plus 1 is 4|
+|93	|	augmented assigned operator	|		|	[ɔːgˈment](https://forvo.com/search/augmented/)	|	|
+|94	|	enhanced	|	fortalecido	|	[ɪnˈhɑːnst](https://youglish.com/pronounce/enhanced/english?)	|	Enhance your next job interview by including some of these phrases in your speech.|
+|95	|	presedence	|	presedencia	|	[ˈpres.ɪ.dəns](https://youglish.com/pronounce/presedence/english?)	|	Multiplication takes presedence over addition|
+|96	|	parenthesis	|	Parentesis	|	[pəˈren.θə.sɪs](https://forvo.com/search/parenthesis/)	|	In programming, parenthesis are used to indicate a function call or to group expressions together.|
+|97	|	verify	|	verificar	|	[ˈver.ɪ.faɪ](https://youglish.com/pronounce/verify/english?)	|	We need to verify your account|
+|98	|	has got	|	es utilizado para dar una descripción detallada / sacó	|	[hæz gɒt](https://forvo.com/search/has%20got/)	|	Carlos has got blue eyes|
+|99	|	set of	|	a collection	|	[set ɒf](https://youglish.com/pronounce/set%20of/english?)	|	We can call a set of functions in Python|
+|100	|	code / piece of code	|	uncountable / countable	|	[kəʊd](https://forvo.com/search/code/)	|	This piece of code is giving us problems / The code is messy|
+|101	|	greater than	|	mayor que	|	[ˈɡreɪtər ðæn](https://youglish.com/pronounce/greater%20than/english?)	|	You have set the variable greater than 10|
+|102	|	answer	|	respuesta	|	[ˈɑːn.sər](https://forvo.com/search/answer/)	|	OpenAI is the answer to many problems in the workplace|
+|103	|	determines	|	determina	|	[dɪˈtɜːmɪnz](https://youglish.com/pronounce/determiners/english?)	|	the algorithm determines the success of a youtube channel|
+|104	|	result	|	resultado	|	[rɪˈzʌlt](https://forvo.com/search/result/)	|	the result of 3 plus 1 is 4|
 | | |||								removing this sticker will result in your warranty being void|
-|105	|	evaluated	|	evaluado	|	https://youglish.com/pronounce/evaluated/english?	|	|
-|106	|	wrap	|	Envolver	|	https://forvo.com/search/wrap/	|	Let’s wrap up this meeting.|
-|107	|	set	|	group /collection	|	https://youglish.com/pronounce/set/english?	|	The value was set to 14|
-|108	|	another	|	otr@	|	https://forvo.com/search/another/	|	Another benefit of cloud computing for startups is its cost.|
+|105	|	evaluated	|	evaluado	|	[ɪˈvæl.ju.eɪtd](https://youglish.com/pronounce/evaluated/english?)	|	|
+|106	|	wrap	|	Envolver	|	[ræp](https://forvo.com/search/wrap/)	|	Let’s wrap up this meeting.|
+|107	|	set	|	group /collection	|	[set](https://youglish.com/pronounce/set/english?)	|	The value was set to 14|
+|108	|	another	|	otr@	|	[əˈnʌð.ər](https://forvo.com/search/another/)	|	Another benefit of cloud computing for startups is its cost.|
 |109	|	!	|	every other value except this one	|	https://forvo.com/search/%21/en/	|	≠ ! =|
-|110	|	followed	|		|	https://youglish.com/pronounce/followed/english?	|	The rollout of the feature was followed by many bug reports.|
-|111	|	>	|	grater than	|	https://youglish.com/pronounce/greater%20than%20/english?	|	Three is greater than two.|
-|112	|	> =	|	grater than or equal	|	https://youglish.com/pronounce/greater%20than%20or%20equal/english?	|	The temperature has to be greater than or equal to 5°|
-|113	|	<	|	less than	|	https://youglish.com/pronounce/less%20than/english?	|	Two is less than three.|
-|114	|	< =	|	less than or equal	|	https://youglish.com/pronounce/less%20than%20or%20equal%20/english?	|	The temperature has to be less than or equal to 40°|
-|115	|	==	|	equality	|	https://forvo.com/search/equality/	|	AI may boost equality in the following decade.|
-|116	|	! =	|	not equality	|	https://youglish.com/pronounce/not%20equality/english?	|	|
-|117	|	logical	|	lógico	|	https://youglish.com/pronounce/logical/english?	|	It’s logical to test new software before deploying it.|
-|118	|	both	|	ambos	|	https://forvo.com/search/both/	|	Both hardware and software components are essential for a computer system.|
-|119	|	at least	|	por lo menos	|	https://youglish.com/pronounce/at%20the%20least/english?	|	Twitter blue is a paid service, at least now users can identify trusted sources.|
+|110	|	followed	|		|	[ˈfɒloʊd](https://youglish.com/pronounce/followed/english?)	|	The rollout of the feature was followed by many bug reports.|
+|111	|	>	|	grater than	|	[ˈgreɪ.tər ðæn](https://youglish.com/pronounce/greater%20than%20/english?)	|	Three is greater than two.|
+|112	|	> =	|	grater than or equal	|	[ˈgreɪ.tər](https://youglish.com/pronounce/greater%20than%20or%20equal/english?)	|	The temperature has to be greater than or equal to 5°|
+|113	|	<	|	less than	|	[les ðæn](https://youglish.com/pronounce/less%20than/english?)	|	Two is less than three.|
+|114	|	< =	|	less than or equal	|	[les ðæn ˈiː.kwəl](https://youglish.com/pronounce/less%20than%20or%20equal%20/english?)	|	The temperature has to be less than or equal to 40°|
+|115	|	==	|	equality	|	[iˈkwɒl.ə.ti]https://forvo.com/search/equality/	|	AI may boost equality in the following decade.|
+|116	|	! =	|	not equality	|	[nɒt iˈkwɒl.ə.ti](https://youglish.com/pronounce/not%20equality/english?)	|	|
+|117	|	logical	|	lógico	|	[ˈlɒdʒ.ɪ.kəl](https://youglish.com/pronounce/logical/english?)	|	It’s logical to test new software before deploying it.|
+|118	|	both	|	ambos	|	[bəʊθ](https://forvo.com/search/both/)	|	Both hardware and software components are essential for a computer system.|
+|119	|	at least	|	por lo menos	|	[æt liːst](https://youglish.com/pronounce/at%20the%20least/english?)	|	Twitter blue is a paid service, at least now users can identify trusted sources.|
 |120	|	and	|	y	|	https://forvo.com/search/and/	|	Encryption and authentication are two important security measures that should be implemented to protect sensitive data.|
-|121	|	or	|	o	|	https://youglish.com/pronounce/or/english?	|	log into the system, you need to enter your username or email address.|
+|121	|	or	|	o	|	[ɔːr](https://youglish.com/pronounce/or/english?)	|	log into the system, you need to enter your username or email address.|
 |122	|	complex	|	complejidad	|	https://forvo.com/search/complex/	|	Building a complex algorithm requires a high level of expertise and advanced programming skills.|
 |123	|	take a look	|	echar un vistazo	|	https://youglish.com/pronounce/take%20a%20look/english?	|	Take a look at the user manual to learn how to operate the device.|
 |124	|	take over	|	adquisición	|	https://forvo.com/search/take%20over/	|	The malware attempted to take over the user's computer by exploiting a security vulnerability.|
@@ -507,5 +506,3 @@
 |	|	push to origin	|		|		|	|
 |	|	command	|		|		|	|
 |	|	.py	|	|		|	|
-|	|	Keyword	|	|		|	|
-|	|	In a single line	|	|		|	|
