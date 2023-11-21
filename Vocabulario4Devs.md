@@ -166,18 +166,18 @@
 |106	|	wrap	|	Envolver	|	[ræp](https://forvo.com/search/wrap/)	|	Let’s wrap up this meeting.|
 |107	|	set	|	group /collection	|	[set](https://youglish.com/pronounce/set/english?)	|	The value was set to 14|
 |108	|	another	|	otr@	|	[əˈnʌð.ər](https://forvo.com/search/another/)	|	Another benefit of cloud computing for startups is its cost.|
-|109	|	!	|	every other value except this one	|	https://forvo.com/search/%21/en/	|	≠ ! =|
+|109	|	!	|	every other value except this one	|	[ˈɛvəriˈəðərˈvæljuːɪksɛptðɪswʌn](https://forvo.com/search/%21/en/)	|	≠ ! =|
 |110	|	followed	|		|	[ˈfɒloʊd](https://youglish.com/pronounce/followed/english?)	|	The rollout of the feature was followed by many bug reports.|
 |111	|	>	|	grater than	|	[ˈgreɪ.tər ðæn](https://youglish.com/pronounce/greater%20than%20/english?)	|	Three is greater than two.|
 |112	|	> =	|	grater than or equal	|	[ˈgreɪ.tər](https://youglish.com/pronounce/greater%20than%20or%20equal/english?)	|	The temperature has to be greater than or equal to 5°|
 |113	|	<	|	less than	|	[les ðæn](https://youglish.com/pronounce/less%20than/english?)	|	Two is less than three.|
 |114	|	< =	|	less than or equal	|	[les ðæn ˈiː.kwəl](https://youglish.com/pronounce/less%20than%20or%20equal%20/english?)	|	The temperature has to be less than or equal to 40°|
-|115	|	==	|	equality	|	[iˈkwɒl.ə.ti]https://forvo.com/search/equality/	|	AI may boost equality in the following decade.|
+|115	|	==	|	equality	|	[iˈkwɒl.ə.ti](https://forvo.com/search/equality/)	|	AI may boost equality in the following decade.|
 |116	|	! =	|	not equality	|	[nɒt iˈkwɒl.ə.ti](https://youglish.com/pronounce/not%20equality/english?)	|	|
 |117	|	logical	|	lógico	|	[ˈlɒdʒ.ɪ.kəl](https://youglish.com/pronounce/logical/english?)	|	It’s logical to test new software before deploying it.|
 |118	|	both	|	ambos	|	[bəʊθ](https://forvo.com/search/both/)	|	Both hardware and software components are essential for a computer system.|
 |119	|	at least	|	por lo menos	|	[æt liːst](https://youglish.com/pronounce/at%20the%20least/english?)	|	Twitter blue is a paid service, at least now users can identify trusted sources.|
-|120	|	and	|	y	|	https://forvo.com/search/and/	|	Encryption and authentication are two important security measures that should be implemented to protect sensitive data.|
+|120	|	and	|	y	|	[ænd](https://forvo.com/search/and/)	|	Encryption and authentication are two important security measures that should be implemented to protect sensitive data.|
 |121	|	or	|	o	|	[ɔːr](https://youglish.com/pronounce/or/english?)	|	log into the system, you need to enter your username or email address.|
 |122	|	complex	|	complejidad	|	[ˈkɒm.pleks](https://forvo.com/search/complex/)	|	Building a complex algorithm requires a high level of expertise and advanced programming skills.|
 |123	|	take a look	|	echar un vistazo	|	[teɪkəlʊk](https://youglish.com/pronounce/take%20a%20look/english?)	|	Take a look at the user manual to learn how to operate the device.|
@@ -200,31 +200,31 @@
 |		|BTW	| |		|		|	|
 |140	|	get confused	|	se confunde	|	[ɡɛtkənˈfjuzd](https://forvo.com/search/get%20confused/)	|	If the temperature is under 30 degrees my program gets confused|
 |141	|	condition	|	condición	|	[kənˈdɪʃ.ən](https://forvo.com/search/condition/)	|	If both conditions are met the program will print It’s a nice day|
-|142	|	plenty	|	suficiente	|	https://forvo.com/search/plenty/	|	There are plenty (of) online resources to learn python|
-|143	|	Shift	|	cambio/ cambiar	|	https://forvo.com/search/shift/	|	This company needs a paradigm shift if we want it to survive|
-|144	|	tab	|	tabular	|	https://forvo.com/search/tab/	|	In many text editors you can use the tab key to quickly indent lines|
-|145	|	terminate	|	cerrar/ eliminar/ terminar	|	https://forvo.com/search/terminate/	|	My computer froze so I had to terminate all tasks|
-|146	|	whether	|	ya sea que	|	https://forvo.com/search/whether/	|	The software will ask you wether you want to save the changes before you close the window|
-|147	|	languages	|	lenguajes	|	https://forvo.com/search/languages/	|	There are over 8000 program languages|
-|148	|	curly braces	|	corchetes	|	https://forvo.com/search/curly/	|	Python doesn’t use curly braces to determine blocks of code|
-|149	|	because / because of	|	porque	|	https://forvo.com/search/because/	|	the app crashed because it ran out of memory// because of the small amount of time the show is over|
-|150	|	a bit / a little / a little bit	|	un poco	|	https://forvo.com/search/bit/	|	Our code is a little bit messy but it worked|
-|151	|	pretty very	|	más que un poco/ bastante	|	https://forvo.com/search/pretty/	|	Darwin’s code is pretty messy|
-|152	|	overthink	|	Pensar de más	|	https://forvo.com/search/overthink/	|	Whenever we get an error we tend to overthink|
-|153	|	Mean	|	adj: malo// noun: signicado, medio, media.	|	https://forvo.com/search/mean/	|	Alex and Carlos are mean to Darwin|
-|154	|	However	|	Sin  embargo	|	https://forvo.com/search/however/	|	SVB went bankrupt however many  of its investors won’t lose their money|
-|155	|	look at	|	fíjate, mira	|	https://forvo.com/search/look%20at/	|	Take a look at line 33, it’s missing a colon|
-|156	|	entered	|	introducido	|	https://forvo.com/search/entered/	|	A decimal value was entered|
-|157	|	need to /want to/ have to / like to	|	necesito/ quiero / tengo que/ me gusta verbo infinitivo como complemento	|	https://forvo.com/search/need/	|	You need to update your OS to the latest version|
+|142	|	plenty	|	suficiente	|	[ˈplen.ti/](https://forvo.com/search/plenty/)	|	There are plenty (of) online resources to learn python|
+|143	|	Shift	|	cambio/ cambiar	|	[ʃɪft](https://forvo.com/search/shift/)	|	This company needs a paradigm shift if we want it to survive|
+|144	|	tab	|	tabular	|	[tæb](https://forvo.com/search/tab/)	|	In many text editors you can use the tab key to quickly indent lines|
+|145	|	terminate	|	cerrar/ eliminar/ terminar	|	[ˈtɜː.mɪ.neɪt](https://forvo.com/search/terminate/)	|	My computer froze so I had to terminate all tasks|
+|146	|	whether	|	ya sea que	|	[ˈweð.ər](https://forvo.com/search/whether/)	|	The software will ask you wether you want to save the changes before you close the window|
+|147	|	languages	|	lenguajes	|	[ˈlæŋ.gwɪdʒ](https://forvo.com/search/languages/)	|	There are over 8000 program languages|
+|148	|	curly braces	|	corchetes	|	[ˈkɜrliˈbreɪsɪz](https://forvo.com/search/curly/)	|	Python doesn’t use curly braces to determine blocks of code|
+|149	|	because / because of	|	porque	|	[bɪˈkəz](https://forvo.com/search/because/)	|	the app crashed because it ran out of memory// because of the small amount of time the show is over|
+|150	|	a bit / a little / a little bit	|	un poco	|	[əˈlɪtəlbɪt](https://forvo.com/search/bit/)	|	Our code is a little bit messy but it worked|
+|151	|	pretty very	|	más que un poco/ bastante	|	[ˈprɪtiˈvɛri](https://forvo.com/search/pretty/)	|	Darwin’s code is pretty messy|
+|152	|	overthink	|	Pensar de más	|	[ˌəʊ.vəˈθɪŋk](https://forvo.com/search/overthink/)	|	Whenever we get an error we tend to overthink|
+|153	|	Mean	|	adj: malo// noun: signicado, medio, media.	|	[miːn](https://forvo.com/search/mean/)	|	Alex and Carlos are mean to Darwin|
+|154	|	However	|	Sin  embargo	|	[ˌhaʊˈev.ər](https://forvo.com/search/however/)	|	SVB went bankrupt however many  of its investors won’t lose their money|
+|155	|	look at	|	fíjate, mira	|	[lʊkæt](https://forvo.com/search/look%20at/)	|	Take a look at line 33, it’s missing a colon|
+|156	|	entered	|	introducido	|	[ˈen.tər](https://forvo.com/search/entered/)	|	A decimal value was entered|
+|157	|	need to /want to/ have to / like to	|	necesito/ quiero / tengo que/ me gusta verbo infinitivo como complemento	|	[niːdtuː](https://forvo.com/search/need/)	|	You need to update your OS to the latest version|
 | | |||								I “wanna” be part of the community|
 | | |||								Your password has to include a special character|
 | | |||								I’d like to get a ChatGPT-4 license|
-|158	|	once again	|	una vez más	|	https://forvo.com/search/once%20again/	|	Once again the update causes compatibility issues|
-|159	|	at once	|	simultaneamente/ al mismo tiempo/ de una vez	|	https://forvo.com/search/at%20once/	|	Don’t speak all at once|
-|160	|	may	|	a lo mejor/ probablemente	|	https://forvo.com/search/may/	|	The Metaverse may be the future of social media|
-|161	|	Show	|	mostrar	|	https://forvo.com/search/show/	|	Can you show me how to use this new software?|
-|162	|	Sequence	|	secuencia	|	https://forvo.com/search/sequence/	|	In computer programming, a sequence of instructions is executed in the order they are written in the code.|
-|163	|	earlier / as I said before	|	antes, como mencioné antes	|	https://forvo.com/search/earlier/	|	The earlier version of the software had several bugs, but they were fixed in the latest update.|
+|158	|	once again	|	una vez más	|	[wʌnsəˈɡɛn](https://forvo.com/search/once%20again/)	|	Once again the update causes compatibility issues|
+|159	|	at once	|	simultaneamente/ al mismo tiempo/ de una vez	|	[ætwʌns](https://forvo.com/search/at%20once/)	|	Don’t speak all at once|
+|160	|	may	|	a lo mejor/ probablemente	|	[meɪ](https://forvo.com/search/may/)	|	The Metaverse may be the future of social media|
+|161	|	Show	|	mostrar	|	[ʃəʊ](https://forvo.com/search/show/)	|	Can you show me how to use this new software?|
+|162	|	Sequence	|	secuencia	|	[ˈsiː.kwəns](https://forvo.com/search/sequence/)	|	In computer programming, a sequence of instructions is executed in the order they are written in the code.|
+|163	|	earlier / as I said before	|	antes, como mencioné antes	|	[ˈɜː.li](https://forvo.com/search/earlier/)	|	The earlier version of the software had several bugs, but they were fixed in the latest update.|
 |164	|	either / or	|	ya sea que… o….	|	https://forvo.com/search/either/	|	You can use either a wired or wireless connection to connect your computer to the internet.|
 |165	|	string/stir	|	hilo/ batir	|	https://forvo.com/search/string/	|	In programming, a string is a sequence of characters, such as letters, numbers, and symbols, that are used to represent text.|
 | | |||								Write a short sentence in the context of technology using the word “|
