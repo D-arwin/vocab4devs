@@ -225,20 +225,20 @@
 |161	|	Show	|	mostrar	|	[ʃəʊ](https://forvo.com/search/show/)	|	Can you show me how to use this new software?|
 |162	|	Sequence	|	secuencia	|	[ˈsiː.kwəns](https://forvo.com/search/sequence/)	|	In computer programming, a sequence of instructions is executed in the order they are written in the code.|
 |163	|	earlier / as I said before	|	antes, como mencioné antes	|	[ˈɜː.li](https://forvo.com/search/earlier/)	|	The earlier version of the software had several bugs, but they were fixed in the latest update.|
-|164	|	either / or	|	ya sea que… o….	|	https://forvo.com/search/either/	|	You can use either a wired or wireless connection to connect your computer to the internet.|
-|165	|	string/stir	|	hilo/ batir	|	https://forvo.com/search/string/	|	In programming, a string is a sequence of characters, such as letters, numbers, and symbols, that are used to represent text.|
+|164	|	either / or	|	ya sea que… o….	|	[ˈaɪ.ðər](https://forvo.com/search/either/)	|	You can use either a wired or wireless connection to connect your computer to the internet.|
+|165	|	string/stir	|	hilo/ batir	|	[strɪŋ](https://forvo.com/search/string/)	|	In programming, a string is a sequence of characters, such as letters, numbers, and symbols, that are used to represent text.|
 | | |||								Write a short sentence in the context of technology using the word “|
-|166	|	so	|	entonces	|	https://forvo.com/search/so/	|	|
-|167	|	loop	|	bucle	|	https://youglish.com/pronounce/loop/english?	|	My program is stuck in a loop|
-|168	|	while	|	mientras	|	https://forvo.com/search/while/	|	you can’t focus on a second thing while you code|
-|169	|	poor way	|	insatisfactorio	|	https://youglish.com/pronounce/poor%20way/english?	|	I solved our last code challenge in a poor way|
-|170	|	approach	|	acercamiento / enfoque	|	https://forvo.com/search/approach/	|	What’s your approach when leading a remote team?|
-|171	|	start off	|	comenzar (movement)	|	https://youglish.com/pronounce/start%20off/english?	|	Let’s start off by declaring our variables|
-|172	|	once again	|	otra vez/ una vez más (énfasis)	|	https://forvo.com/search/once%20again/	|	Once again my code crashed|
-|173	|	less / fewer	|	menos	|	https://youglish.com/pronounce/less/english?	|	We have less experience than KrashO|
+|166	|	so	|	entonces	|	[səʊ](https://forvo.com/search/so/)	|	|
+|167	|	loop	|	bucle	|	[luːp](https://youglish.com/pronounce/loop/english?)	|	My program is stuck in a loop|
+|168	|	while	|	mientras	|	[waɪl](https://forvo.com/search/while/)	|	you can’t focus on a second thing while you code|
+|169	|	poor way	|	insatisfactorio	|	[pʊrweɪ](https://youglish.com/pronounce/poor%20way/english?)	|	I solved our last code challenge in a poor way|
+|170	|	approach	|	acercamiento / enfoque	|	[əˈprəʊtʃ](https://forvo.com/search/approach/)	|	What’s your approach when leading a remote team?|
+|171	|	start off	|	comenzar (movement)	|	[stɑrt ɒf](https://youglish.com/pronounce/start%20off/english?)	|	Let’s start off by declaring our variables|
+|172	|	once again	|	otra vez/ una vez más (énfasis)	|	[wʌnsəˈɡɛn](https://forvo.com/search/once%20again/)	|	Once again my code crashed|
+|173	|	less / fewer	|	menos	|	[les](https://youglish.com/pronounce/less/english?)	|	We have less experience than KrashO|
 | | |||								We have fewer years of experience than KrashO|
 | | |||								Mosh’s solution to the challenge had fewer lines than Darwin’s|
-|174	|	indefinitely	|	indefinidamente	|	https://youglish.com/pronounce/indefinitely/english?	|	Twitter will be charging for its blue check indefinitely|
+|174	|	indefinitely	|	indefinidamente	|	[ɪnˈdef.ɪ.nət.li](https://youglish.com/pronounce/indefinitely/english?)	|	Twitter will be charging for its blue check indefinitely|
 |175	|	run out of	|	se acabó, se agota	|	https://forvo.com/search/run%20out%20of/	|	we ran out of time|
 |178	|	iteration	|	iteración	|	https://youglish.com/pronounce/iteration/english?	|	This is the first iteration of our show|
 |179	|	no longer	|	no más	|	https://forvo.com/search/no%20longer/	|	ChatGPT no longer offers unlimited queries|
