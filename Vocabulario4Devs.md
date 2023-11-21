@@ -504,5 +504,8 @@
 |	|	pull down	|		|		|	|
 |	|	commit	|		|		|	|
 |	|	push to origin	|		|		|	|
-|	|	command	|		|		|	|
-|	|	.py	|	|		|	|
+|	|	command	|		comando|	https://forvo.com/search/command/	|	Coding requires understanding the precise use of command syntax to execute desired functions efficiently|
+|	|	.py	|	dot pai|	https://youglish.com/pronounce/.py/english	|	To automate the data analysis, we wrote a script in a .py file, which allowed us to process large datasets quickly and accurately|
+|	|	Hash	mark|	signo de gato|		|	|
+|	|	Unexpected|	inesperado|		|	|
+|	|	Unindenteded|	inesperado|		|	|
