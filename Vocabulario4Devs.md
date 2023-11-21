@@ -179,27 +179,27 @@
 |119	|	at least	|	por lo menos	|	[æt liːst](https://youglish.com/pronounce/at%20the%20least/english?)	|	Twitter blue is a paid service, at least now users can identify trusted sources.|
 |120	|	and	|	y	|	https://forvo.com/search/and/	|	Encryption and authentication are two important security measures that should be implemented to protect sensitive data.|
 |121	|	or	|	o	|	[ɔːr](https://youglish.com/pronounce/or/english?)	|	log into the system, you need to enter your username or email address.|
-|122	|	complex	|	complejidad	|	https://forvo.com/search/complex/	|	Building a complex algorithm requires a high level of expertise and advanced programming skills.|
-|123	|	take a look	|	echar un vistazo	|	https://youglish.com/pronounce/take%20a%20look/english?	|	Take a look at the user manual to learn how to operate the device.|
-|124	|	take over	|	adquisición	|	https://forvo.com/search/take%20over/	|	The malware attempted to take over the user's computer by exploiting a security vulnerability.|
-|125	|	there you go	|	ahí lo tienes	|	https://youglish.com/pronounce/there%20you%20go/english?	|	After installing the latest software update, there you go - your computer is running much faster now.|
-|126	|	at least	|	por lo menos	|	https://forvo.com/search/at%20least/	|	To ensure data security, you should use a strong password with at least eight characters, including numbers and symbols.|
-|127	|	do a list / make a list	|	hacer una lista	|	https://youglish.com/pronounce/make%20a%20list/english?	|	Before starting the project, it's important to do a list of all the required materials and equipment.|
-|128	|	statements	|	enunciados	|	https://forvo.com/search/statements/	|	In programming, conditional statements are used to control the flow of code based on certain conditions.|
-|129	|	messages / message	|	mensajes	|	https://youglish.com/pronounce/messages/english?	|	Instant messaging has become a popular way to send quick messages to friends and colleagues in real-time.|
-|130	|	let’s	|	vamos	|	https://forvo.com/search/let%27s/	|	Let's use a password manager to securely store all our login credentials in one place.|
-|131	|	temperature	|	temperatura	|	https://youglish.com/pronounce/temperature/english?	|	The temperature sensor module reads the current temperature and sends the data to the microcontroller, which uses the information to adjust the cooling fan speed.”\|
-|132	|	indented	|	justificado	|	https://forvo.com/search/intended/	|	Indenting your code is a good practice. Indenting is strongly suggested while coding in Python|
-|133	|	a block of code	|	bloque de código	|	https://youglish.com/pronounce/a%20block%20of%20code/english?	|	"The programmer wrote a block of code to solve the issue.”|
-|134	|	Otherwise	|	de lo contrario / y si no	|	https://forvo.com/search/otherwise/	|	you have to close the loop, otherwise the code will keep running|
-|135	|	insights	|	introspectiva / opiniones / resultados de experiencias	|	https://youglish.com/pronounce/insights/english?	|	Mosh is giving us valuable insights on Python|
-|136	|	hindsight	|	retrospectiva	|	https://forvo.com/search/hindsight/	|	In hindsight I should’ve sold my crypto in 2020|
-|137	|	executed	|	ejecutado	|	https://forvo.com/search/executed/	|	My code was executed correctly|
-|138	|	surrounded	|	rodear/ encerrar	|	https://forvo.com/search/surrounded/	|	Meta’s HQ is surrounded by other tech startups|
-|139	|	by the way	|	por cierto/ por el camino	|	https://forvo.com/search/by%20the%20way/	|	"BTW, if you don't know how to use the API, feel free to check out the documentation.”|
+|122	|	complex	|	complejidad	|	[ˈkɒm.pleks](https://forvo.com/search/complex/)	|	Building a complex algorithm requires a high level of expertise and advanced programming skills.|
+|123	|	take a look	|	echar un vistazo	|	[teɪkəlʊk](https://youglish.com/pronounce/take%20a%20look/english?)	|	Take a look at the user manual to learn how to operate the device.|
+|124	|	take over	|	adquisición	|	[teɪkˈoʊvər](https://forvo.com/search/take%20over/)	|	The malware attempted to take over the user's computer by exploiting a security vulnerability.|
+|125	|	there you go	|	ahí lo tienes	|	[ðɛr ju ɡoʊ](https://youglish.com/pronounce/there%20you%20go/english?)	|	After installing the latest software update, there you go - your computer is running much faster now.|
+|126	|	at least	|	por lo menos	|	[ætli:st](https://forvo.com/search/at%20least/)	|	To ensure data security, you should use a strong password with at least eight characters, including numbers and symbols.|
+|127	|	do a list / make a list	|	hacer una lista	|	[meɪkəlɪst](https://youglish.com/pronounce/make%20a%20list/english?)	|	Before starting the project, it's important to do a list of all the required materials and equipment.|
+|128	|	statements	|	enunciados	|	[statements](https://forvo.com/search/statements/)	|	In programming, conditional statements are used to control the flow of code based on certain conditions.|
+|129	|	messages / message	|	mensajes	|	[ˈmes.ɪdʒ](https://youglish.com/pronounce/messages/english?)	|	Instant messaging has become a popular way to send quick messages to friends and colleagues in real-time.|
+|130	|	let’s	|	vamos	|	[lets](https://forvo.com/search/let%27s/)	|	Let's use a password manager to securely store all our login credentials in one place.|
+|131	|	temperature	|	temperatura	|	[ˈtem.prə.tʃər](https://youglish.com/pronounce/temperature/english?)	|	The temperature sensor module reads the current temperature and sends the data to the microcontroller, which uses the information to adjust the cooling fan speed.”\|
+|132	|	indented	|	justificado	|	[ɪnˈdent](https://forvo.com/search/intended/)	|	Indenting your code is a good practice. Indenting is strongly suggested while coding in Python|
+|133	|	a block of code	|	bloque de código	|	[ə blɒk əv koʊd](https://youglish.com/pronounce/a%20block%20of%20code/english?)	|	"The programmer wrote a block of code to solve the issue.”|
+|134	|	Otherwise	|	de lo contrario / y si no	|	[ˈʌð.ə.waɪz](https://forvo.com/search/otherwise/)	|	you have to close the loop, otherwise the code will keep running|
+|135	|	insights	|	introspectiva / opiniones / resultados de experiencias	|	[ˈɪn.saɪt](https://youglish.com/pronounce/insights/english?)	|	Mosh is giving us valuable insights on Python|
+|136	|	hindsight	|	retrospectiva	|	[haɪnd.saɪt](https://forvo.com/search/hindsight/)	|	In hindsight I should’ve sold my crypto in 2020|
+|137	|	executed	|	ejecutado	|	[ˈek.sɪ.kjuːt](https://forvo.com/search/executed/)	|	My code was executed correctly|
+|138	|	surrounded	|	rodear/ encerrar	|	[səˈraʊnd](https://forvo.com/search/surrounded/)	|	Meta’s HQ is surrounded by other tech startups|
+|139	|	by the way	|	por cierto/ por el camino	|	[baɪðəweɪ](https://forvo.com/search/by%20the%20way/)	|	"BTW, if you don't know how to use the API, feel free to check out the documentation.”|
 |		|BTW	| |		|		|	|
-|140	|	get confused	|	se confunde	|	https://forvo.com/search/get%20confused/	|	If the temperature is under 30 degrees my program gets confused|
-|141	|	condition	|	condición	|	https://forvo.com/search/condition/	|	If both conditions are met the program will print It’s a nice day|
+|140	|	get confused	|	se confunde	|	[ɡɛtkənˈfjuzd](https://forvo.com/search/get%20confused/)	|	If the temperature is under 30 degrees my program gets confused|
+|141	|	condition	|	condición	|	[kənˈdɪʃ.ən](https://forvo.com/search/condition/)	|	If both conditions are met the program will print It’s a nice day|
 |142	|	plenty	|	suficiente	|	https://forvo.com/search/plenty/	|	There are plenty (of) online resources to learn python|
 |143	|	Shift	|	cambio/ cambiar	|	https://forvo.com/search/shift/	|	This company needs a paradigm shift if we want it to survive|
 |144	|	tab	|	tabular	|	https://forvo.com/search/tab/	|	In many text editors you can use the tab key to quickly indent lines|
