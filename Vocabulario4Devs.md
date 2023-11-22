@@ -289,8 +289,8 @@
 |225	|	remember	|	recordar	|	[rɪˈmem.bər](https://es.youglish.com/pronounce/remember/english?)	|	As a best practice, IT professionals should remember to regularly back up important data to prevent loss in case of system failures or security breaches.|
 |226	|	remembrance	|	remembranza	|	[rɪˈmem.brəns](https://es.youglish.com/pronounce/remembrance/english?)	|	The company organized a special event in remembrance of the IT team's accomplishments and contributions throughout the year.|
 |227	|	backend	|	lo que pasa tras bambalinas	|	[ˌbæk.end](https://youglish.com/pronounce/backend/english?)	|	Today we were mentored by a professional backend developer|
-|228	|	ruby on rails	|	ruby= rubí =programming language	|	https://youglish.com/pronounce/ruby%20on%20rails/english?	|	luckily our guest today didn’t ask us about ruby on rails|
-|229	|	mentorship	|	rails= rieles = es el framework	|	[ˈruːbiɒnreɪlz](https://youglish.com/pronounce/mentorship/english?)	|	You can get a mentorship with Luis if you send him a DM|
+|228	|	ruby on rails	|	ruby= rubí =programming language	|	[ˈruːbiɒnreɪlz](https://youglish.com/pronounce/ruby%20on%20rails/english?)	|	luckily our guest today didn’t ask us about ruby on rails|
+|229	|	mentorship	|	rails= rieles = es el framework	|	[ˈmɛntərʃɪp](https://youglish.com/pronounce/mentorship/english?)	|	You can get a mentorship with Luis if you send him a DM|
 |230	|	mentee	|	mentoria	|	[menˈtiː](https://forvo.com/search/mentee/)	|	Luis has lots of successful mentees in his program|
 |		|	|	mentoreado	|		|	| 
 |	|	engineer	|	ingeniero	|	[ˌen.dʒɪˈnɪər](https://youglish.com/pronounce/engineer/english?)	|	We need to engineer a solution to long queues at the airport|
@@ -325,25 +325,25 @@
 |258	|	make sure	|	asegurate	|	[meɪkʃʊr](https://youglish.com/pronounce/make%20sure/english?)	|	Make sure you have the latest Python version|
 |259	|	otherwise	|	de lo contrario	|	[ˈʌð.ə.waɪz](https://forvo.com/search/otherwise/)	|	Always initialize your variables; otherwise, you might encounter unexpected behavior in your code|
 |260	|	verify	|	verifica	|	[ˈver.ɪ.faɪ](https://forvo.com/search/verify/)	|	Open a terminal to verify what Python version you have|
-|261	|	interpreter	|	interprete	|	https://forvo.com/search/interpreter/	|	Python uses an interpreter to execute its code line by line|
-|262	|	debugging	|	arreglar el bug	|	https://forvo.com/search/debugging/	|	Debugging is an essential process in programming that involves identifying and removing errors from code|
-|263	|	for both	|	tanto para uno como el otro	|	https://youglish.com/pronounce/for%20both/english?	|	For both Mac and PC you need to install the most recent version of VS Code|
-|264	|	panel	|	panel	|	https://forvo.com/search/panel/	|	The developer designed a user-friendly control panel within the software to allow clients to easily manage their system settings.|
-|265	|	called it	|	Lo sabía, lo supuse (idiomatic expression)	|	https://youglish.com/pronounce/called%20it/english?	|	terminator called it|
-|266	|	back and forth	|	ir y venir	|	https://youglish.com/pronounce/back%20and%20forth/english?	|	you don’t need to go back and forth between VS Code and the terminal because it is built in|
-|267	|	IDE	|	Integrated development enviroment	|	https://youglish.com/pronounce/IDE/english?	|	An IDE is a software that helps developer write code|
-|268	|	start from scratch	|	empezar desde cero	|	https://youglish.com/pronounce/start%20from%20scratch/english?	|	With ChatGPT you don’t need to start from scratch|
-|269	|	linting	|	lintear	|	https://youglish.com/pronounce/linting/english?	|	Linting is an essential process that helps you identify errors before they turn into bugs|
-|270	|	plug in	|	extensión	|	https://youglish.com/pronounce/plug%20in/english?	|	VS has a lot of useful plug ins|
-|271	|	autocompletion	|	autocompletar	|	https://youglish.com/pronounce/autocompletion/english?	|	Autocompletion can save us some time|
-|272	|	unit testing	|	pruebas unitarias	|	https://youglish.com/pronounce/unit%20testing/english?	|	The validtion of individual units of code is called unit testing|
-|273	|	behavior	|	comportamiento	|	https://forvo.com/search/behavior/	|	Good software behavior is characterized by robust performance|
-|274	|	fashion	|	estilo/modo/manera	|	https://forvo.com/search/fashion/	|	Having a fashion-forward mindset means embracing innovative approaches|
-|275	|	snippets	|	cortes	|	https://forvo.com/search/snippets/	|	In software development, code snippets are small blocks of reusable code that developers can plug into a program to perform a specific function.|
-|276	|	linter	|	linteador	|	https://youglish.com/pronounce/linter/english?	|	A cohesive team uses the same linter for best practices|
-|277	|	caller function	|	función que llama	|	https://youglish.com/pronounce/caller%20function/english?	|	The caller function is responsible for initiating the execution of a specific subroutine in an IT system|
-|278	|	palette	|	paleta (de herramientas)	|	https://forvo.com/search/palette/	|	Command palette allows you to quickly look for commands|
-|279	|	HUD	|	Heads Up Display/ pantalla de datos	|	https://youglish.com/pronounce/HUD/english/uk?	|	Heads up display gives the user useful information|
+|261	|	interpreter	|	interprete	|	[ɪnˈtɜː.prə.tər](https://forvo.com/search/interpreter/)	|	Python uses an interpreter to execute its code line by line|
+|262	|	debugging	|	arreglar el bug	|	[ˌdiːˈbʌg](https://forvo.com/search/debugging/)	|	Debugging is an essential process in programming that involves identifying and removing errors from code|
+|263	|	for both	|	tanto para uno como el otro	|	[fɔrboʊθ](https://youglish.com/pronounce/for%20both/english?)	|	For both Mac and PC you need to install the most recent version of VS Code|
+|264	|	panel	|	panel	|	[ˈpæn.əl](https://forvo.com/search/panel/)	|	The developer designed a user-friendly control panel within the software to allow clients to easily manage their system settings.|
+|265	|	called it	|	Lo sabía, lo supuse (idiomatic expression)	|	[kɔldɪt](https://youglish.com/pronounce/called%20it/english?)	|	terminator called it|
+|266	|	back and forth	|	ir y venir	|	[bækəndfɔrθ](https://youglish.com/pronounce/back%20and%20forth/english?)	|	you don’t need to go back and forth between VS Code and the terminal because it is built in|
+|267	|	IDE	|	Integrated development enviroment	|	[aɪdiːiː](https://youglish.com/pronounce/IDE/english?)	|	An IDE is a software that helps developer write code|
+|268	|	start from scratch	|	empezar desde cero	|	[stɑrtfrəmskrætʃ](https://youglish.com/pronounce/start%20from%20scratch/english?)	|	With ChatGPT you don’t need to start from scratch|
+|269	|	linting	|	lintear	|	[lɪntɪŋ](https://youglish.com/pronounce/linting/english?)	|	Linting is an essential process that helps you identify errors before they turn into bugs|
+|270	|	plug in	|	extensión	|	[plʌɡɪn](https://youglish.com/pronounce/plug%20in/english?)	|	VS has a lot of useful plug ins|
+|271	|	autocompletion	|	autocompletar	|	[ɔtoʊkəmpliˈʃən](https://youglish.com/pronounce/autocompletion/english?)	|	Autocompletion can save us some time|
+|272	|	unit testing	|	pruebas unitarias	|	[juːnɪtˈtɛstɪŋ](https://youglish.com/pronounce/unit%20testing/english?)	|	The validtion of individual units of code is called unit testing|
+|273	|	behavior	|	comportamiento	|	[bɪˈheɪ.vjər](https://forvo.com/search/behavior/)	|	Good software behavior is characterized by robust performance|
+|274	|	fashion	|	estilo/modo/manera	|	[ˈfæʃ.ən](https://forvo.com/search/fashion/)	|	Having a fashion-forward mindset means embracing innovative approaches|
+|275	|	snippets	|	cortes	|	[ˈsnɪp.ɪts](https://forvo.com/search/snippets/)	|	In software development, code snippets are small blocks of reusable code that developers can plug into a program to perform a specific function.|
+|276	|	linter	|	linteador	|	[ˈlɪntər](https://youglish.com/pronounce/linter/english?)	|	A cohesive team uses the same linter for best practices|
+|277	|	caller function	|	función que llama	|	[ˈkɔlərˈfʌŋkʃən](https://youglish.com/pronounce/caller%20function/english?)	|	The caller function is responsible for initiating the execution of a specific subroutine in an IT system|
+|278	|	palette	|	paleta (de herramientas)	|	[ˈpæl.ət](https://forvo.com/search/palette/)	|	Command palette allows you to quickly look for commands|
+|279	|	HUD	|	Heads Up Display/ pantalla de datos	|	[heɪjuːdiː](https://youglish.com/pronounce/HUD/english/uk?)	|	Heads up display gives the user useful information|
 |280	|	Enhancement	|	Una mejora	|	https://forvo.com/search/enhancement/	|	The latest software update includes several performance enhancements for faster data processing.|
 |281	|	PEP	|	Python Enhancement Proposal	|	https://youglish.com/pronounce/PEP/english/uk?	|	The implementation of Python Enhancement Proposal 523 has greatly improved the efficiency and security|
 |282	|	Look	|	Mira (enfocado)	|	https://forvo.com/search/look/	|	Look at your terminal for information about errors.|
