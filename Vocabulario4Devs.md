@@ -246,23 +246,23 @@
 |181	|	cannot	|	no se puede	|	[cannot](https://forvo.com/search/cannot/)	|	we cannot release the feature until we complete the testing phase|
 |182	|	Lists	|	listas	|	[lɪsts](https://youglish.com/pronounce/lists/english?)	|	We can use square brackets to declare lists in Python|
 |183	|	kinds	|	tipos	|	[kaɪnd](https://forvo.com/search/kinds/)	|	Python has 4 primitive kinds of variables|
-|184	|	square brackets	|	corchetes cuadrados	|	https://youglish.com/pronounce/square%20bracket/english?	|	We can use square brackets to declare lists|
-|185	|	it came out	|	salió/ resultado	|	https://forvo.com/search/came%20out/	|	The new Mario Movie came out just yesterday|
-|186	|	reset it	|	reiniciarlo	|	https://youglish.com/pronounce/reset%20it/english?	|	If your computer is behaving strangely, just reset it.|
-|187	|	up to	|	depende	|	https://forvo.com/search/up%20to/	|	It’s up to you how much time you invest studying.|
-|188	|	given index	|	dado/dade	|	https://es.youglish.com/pronounce/given/english?	|	The remove function deletes a given object|
-|189	|	spell	|	deletrear / escribir cuando se utiliza en pregunta/ hechizo / consecuencia a	|	https://es.youglish.com/pronounce/spell/english?	|	Thread is spelled with an h// How do you spell your name?// The economy is going to spell the end of all of us|
-|190	|	verify	|	Verificar	|	https://es.youglish.com/pronounce/verify/english?	|	The server verifies whether you’re using a VPN|
-|191	|	on top	|		|	https://es.youglish.com/pronounce/on%20top/english?	|	|
-|192	|	range	|	rango	|	https://es.youglish.com/pronounce/range/english?	|	Square brackets are used to a list that can contain a range of values|
-|193	|	array	|	arreglo	|	https://es.youglish.com/pronounce/array/english?	|	Arrays and lists share features|
-|194	|	capabilities	|	capacidades	|	https://es.youglish.com/pronounce/capabilities/english?	|	Everyone has the capability of writing python code but you need to develop the ability to do so|
-|195	|	Parameter	|	parametro	|	https://es.youglish.com/pronounce/Parameter/english?	|	The function takes a string parameter as input|
-|196	|	Probably	|	probablemente	|	https://forvo.com/search/probably/	|	There’s probably a bug in the code|
-|197	|	expect	|	esperar // a la expectativa	|	https://youglish.com/pronounce/expect/english?	|	I expect the function returns a true value|
-|198	|	agency	|	autonomía	|	https://forvo.com/search/agency/	|	My department has full agency over the project|
-|199	|	lend/borrow	|	dar en préstamo // tomar en préstamo	|	https://youglish.com/pronounce/borrow/english?	|	I’ll lend you my headset if I can borrow your camera|
-|200	|	loop	|	bucle	|	https://forvo.com/search/loop/	|	We use loops to iterate through lists|
+|184	|	square brackets	|	corchetes cuadrados	|	[skwɛərˈbrækɪts](https://youglish.com/pronounce/square%20bracket/english?)	|	We can use square brackets to declare lists|
+|185	|	it came out	|	salió/ resultado	|	[ɪtkeɪmaʊt](https://forvo.com/search/came%20out/)	|	The new Mario Movie came out just yesterday|
+|186	|	reset it	|	reiniciarlo	|	[riːˈsɛtɪt](https://youglish.com/pronounce/reset%20it/english?)	|	If your computer is behaving strangely, just reset it.|
+|187	|	up to	|	depende	|	[ʌptuː](https://forvo.com/search/up%20to/)	|	It’s up to you how much time you invest studying.|
+|188	|	given index	|	dado/dade	|	[ˈɡɪvənˈɪndɛks](https://es.youglish.com/pronounce/given/english?)	|	The remove function deletes a given object|
+|189	|	spell	|	deletrear / escribir cuando se utiliza en pregunta/ hechizo / consecuencia a	|	[spel](https://es.youglish.com/pronounce/spell/english?)	|	Thread is spelled with an h// How do you spell your name?// The economy is going to spell the end of all of us|
+|190	|	verify	|	Verificar	|	[ˈver.ɪ.faɪ](https://es.youglish.com/pronounce/verify/english?)	|	The server verifies whether you’re using a VPN|
+|191	|	on top	|		|	[ɒntɒp](https://es.youglish.com/pronounce/on%20top/english?)	|	|
+|192	|	range	|	rango	|	[reɪndʒ](https://es.youglish.com/pronounce/range/english?)	|	Square brackets are used to a list that can contain a range of values|
+|193	|	array	|	arreglo	|	[əˈreɪ](https://es.youglish.com/pronounce/array/english?)	|	Arrays and lists share features|
+|194	|	capabilities	|	capacidades	|	[ˌkeɪ.pəˈbɪl.ə.tis](https://es.youglish.com/pronounce/capabilities/english?)	|	Everyone has the capability of writing python code but you need to develop the ability to do so|
+|195	|	Parameter	|	parametro	|	[pəˈræm.ɪ.tər](https://es.youglish.com/pronounce/Parameter/english?)	|	The function takes a string parameter as input|
+|196	|	Probably	|	probablemente	|	[ˈprɒb.ə.bli](https://forvo.com/search/probably/)	|	There’s probably a bug in the code|
+|197	|	expect	|	esperar // a la expectativa	|	[ɪkˈspekt](https://youglish.com/pronounce/expect/english?)	|	I expect the function returns a true value|
+|198	|	agency	|	autonomía	|	[ˈeɪ.dʒən.si](https://forvo.com/search/agency/)	|	My department has full agency over the project|
+|199	|	lend/borrow	|	dar en préstamo // tomar en préstamo	|	[ˈbɒr.əʊ](https://youglish.com/pronounce/borrow/english?)	|	I’ll lend you my headset if I can borrow your camera|
+|200	|	loop	|	bucle	|	[luːp](https://forvo.com/search/loop/)	|	We use loops to iterate through lists|
 |201	|	come out	|	resultado	|	https://youglish.com/pronounce/come%20out/english?	|	The boolean value came out as false|
 |202	|	hold	|	contener	|	https://forvo.com/search/hold/	|	he variable holds a fixed value|
 |203	|	implementation	|	implementación	|	https://youglish.com/pronounce/implementation/english?	|	Implementation will take us the whole week|
