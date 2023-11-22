@@ -239,13 +239,13 @@
 | | |||								We have fewer years of experience than KrashO|
 | | |||								Mosh’s solution to the challenge had fewer lines than Darwin’s|
 |174	|	indefinitely	|	indefinidamente	|	[ɪnˈdef.ɪ.nət.li](https://youglish.com/pronounce/indefinitely/english?)	|	Twitter will be charging for its blue check indefinitely|
-|175	|	run out of	|	se acabó, se agota	|	https://forvo.com/search/run%20out%20of/	|	we ran out of time|
-|178	|	iteration	|	iteración	|	https://youglish.com/pronounce/iteration/english?	|	This is the first iteration of our show|
-|179	|	no longer	|	no más	|	https://forvo.com/search/no%20longer/	|	ChatGPT no longer offers unlimited queries|
-|180	|	readable	|	legible	|	https://youglish.com/pronounce/readable/english?	|	indenting our code makes it more readable|
-|181	|	cannot	|	no se puede	|	https://forvo.com/search/cannot/	|	we cannot release the feature until we complete the testing phase|
-|182	|	Lists	|	listas	|	https://youglish.com/pronounce/lists/english?	|	We can use square brackets to declare lists in Python|
-|183	|	kinds	|	tipos	|	https://forvo.com/search/kinds/	|	Python has 4 primitive kinds of variables|
+|175	|	run out of	|	se acabó, se agota	|	[rʌnaʊtʌv](https://forvo.com/search/run%20out%20of/)	|	we ran out of time|
+|178	|	iteration	|	iteración	|	[ˌɪt.ərˈeɪ.ʃən](https://youglish.com/pronounce/iteration/english?)	|	This is the first iteration of our show|
+|179	|	no longer	|	no más	|	[noʊˈlɔŋɡər](https://forvo.com/search/no%20longer/)	|	ChatGPT no longer offers unlimited queries|
+|180	|	readable	|	legible	|	[ˈriː.də.bəl](https://youglish.com/pronounce/readable/english?)	|	indenting our code makes it more readable|
+|181	|	cannot	|	no se puede	|	[cannot](https://forvo.com/search/cannot/)	|	we cannot release the feature until we complete the testing phase|
+|182	|	Lists	|	listas	|	[lɪsts](https://youglish.com/pronounce/lists/english?)	|	We can use square brackets to declare lists in Python|
+|183	|	kinds	|	tipos	|	[kaɪnd](https://forvo.com/search/kinds/)	|	Python has 4 primitive kinds of variables|
 |184	|	square brackets	|	corchetes cuadrados	|	https://youglish.com/pronounce/square%20bracket/english?	|	We can use square brackets to declare lists|
 |185	|	it came out	|	salió/ resultado	|	https://forvo.com/search/came%20out/	|	The new Mario Movie came out just yesterday|
 |186	|	reset it	|	reiniciarlo	|	https://youglish.com/pronounce/reset%20it/english?	|	If your computer is behaving strangely, just reset it.|
