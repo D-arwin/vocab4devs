@@ -263,68 +263,68 @@
 |198	|	agency	|	autonomía	|	[ˈeɪ.dʒən.si](https://forvo.com/search/agency/)	|	My department has full agency over the project|
 |199	|	lend/borrow	|	dar en préstamo // tomar en préstamo	|	[ˈbɒr.əʊ](https://youglish.com/pronounce/borrow/english?)	|	I’ll lend you my headset if I can borrow your camera|
 |200	|	loop	|	bucle	|	[luːp](https://forvo.com/search/loop/)	|	We use loops to iterate through lists|
-|201	|	come out	|	resultado	|	https://youglish.com/pronounce/come%20out/english?	|	The boolean value came out as false|
-|202	|	hold	|	contener	|	https://forvo.com/search/hold/	|	he variable holds a fixed value|
-|203	|	implementation	|	implementación	|	https://youglish.com/pronounce/implementation/english?	|	Implementation will take us the whole week|
-|204	|	store	|	almacenar	|	https://forvo.com/search/store/	|	This function will store a tuple|
-|205	|	default	|	por defecto	|	https://forvo.com/search/default/	|	By default Python includes some built in functions/ Python understands by default that you are declaring a tuple when using parenthesis instead of square brackets|
-|206	|	How to	|	Cómo hacer	|	https://es.youglish.com/pronounce/How%20to/english?	|	Mosh taught us how to code a calculator|
-|207	|	Know how	|	la experiencia/ el expertise	|	https://es.youglish.com/pronounce/Know%20how/english?	|	Now we have primitive  know how  on Python|
-|208	|	How about you?	|	Qué hay de ti? Y tú?	|	https://es.youglish.com/pronounce/How%20about%20you%3F/english?	|	I’m a self-taught developer, how about you?|
-|209	|	Sequence	|	Secuencia	|	https://es.youglish.com/pronounce/Sequence/english?	|	The software developer implemented a sequence of steps to automate the data backup process.|
-|210	|	Supply	|	suministro	|	https://es.youglish.com/pronounce/Supply/english?	|	The procurement department ensured an uninterrupted supply of computer components for the upcoming hardware upgrade project.|
-|211	|	Odd	|	impar o extraño	|	https://es.youglish.com/pronounce/Odd/english?	|	The IT technician noticed an odd pattern of network traffic that required further investigation to identify the source.|
-|212	|	Tuples	|	tuplas: used to store multiple items in a single variable	|	https://es.youglish.com/pronounce/Tuples/english?	|	The database query returned a set of tuples containing the relevant customer information, ready for further analysis.|
-|213	|	occurrences	|	las veces que sucede	|	https://es.youglish.com/pronounce/occurrences%20/english?	|	The log file analysis revealed multiple occurrences of the error message, indicating a potential issue with the server configuration.|
-|214	|	accidentally	|	accidentalmente	|	https://es.youglish.com/pronounce/accidentally/english?	|	One of the developers accidentally deleted a critical file, but the IT team swiftly recovered it from the backup.|
-|215	|	completion	|	completar	|	https://es.youglish.com/pronounce/completion/english?	|	The software development project is nearing completion, with only a few minor tasks remaining before the final release.|
-|217	|	interested	|	interesado	|	https://es.youglish.com/pronounce/interested/english?	|	The IT department is actively seeking talented and motivated individuals who are interested in joining the team.|
-|218	|	resume	|	currículum	|	https://es.youglish.com/pronounce/resume/english?	|	Before considering a candidate for the IT position, the hiring manager carefully reviews their resume to evaluate their qualifications and experience.|
-|219	|	a few fries short of a happy meal	|	te faltan 10 centavos pal peso, no le sube agua al tinaco, le falta un tornillo	|	https://es.youglish.com/pronounce/a%20few%20fries%20short%20of%20a%20happy%20meal%20/english?	|	I'm sorry, but that programmer seems to be a few fries short of a happy meal when it comes to understanding basic coding concepts.”|
-|220	|	display	|	desplegar/ pantalla	|	https://es.youglish.com/pronounce/display/english?	|	the function print displays a result|
-|221	|	even	|	even number es un número par,también hace referencia a la palabra “aunque” y “parejo” “plano”	|	https://es.youglish.com/pronounce/even/english?	|	the modulus 2 of an even number is zero// Even a novice knows that!|
-|222	|	hint	|	pista	|	https://es.youglish.com/pronounce/hint/english?	|	In Pycharm the errors give you hints|
-|223	|	reminder	|	recordatorio	|	https://es.youglish.com/pronounce/reminder%20/english?	|	The IT team sends out regular email reminders to all employees, reminding them to update their passwords for improved security.|
-|224	|	remainder	|	residuo	|	https://es.youglish.com/pronounce/remainder/english?	|	After dividing the workload evenly among team members, there was a remainder of tasks that required additional attention and allocation.|
-|225	|	remember	|	recordar	|	https://es.youglish.com/pronounce/remember/english?	|	As a best practice, IT professionals should remember to regularly back up important data to prevent loss in case of system failures or security breaches.|
-|226	|	remembrance	|	remembranza	|	https://es.youglish.com/pronounce/remembrance/english?	|	The company organized a special event in remembrance of the IT team's accomplishments and contributions throughout the year.|
-|227	|	backend	|	lo que pasa tras bambalinas	|	https://youglish.com/pronounce/backend/english?	|	Today we were mentored by a professional backend developer|
+|201	|	come out	|	resultado	|	[kʌmaʊt](https://youglish.com/pronounce/come%20out/english?)	|	The boolean value came out as false|
+|202	|	hold	|	contener	|	[həʊld](https://forvo.com/search/hold/)	|	he variable holds a fixed value|
+|203	|	implementation	|	implementación	|	[ˌɪm.plɪ.menˈteɪ.ʃən](https://youglish.com/pronounce/implementation/english?)	|	Implementation will take us the whole week|
+|204	|	store	|	almacenar	|	[stɔːr](https://forvo.com/search/store/)	|	This function will store a tuple|
+|205	|	default	|	por defecto	|	[dɪˈfɒlt](https://forvo.com/search/default/)	|	By default Python includes some built in functions/ Python understands by default that you are declaring a tuple when using parenthesis instead of square brackets|
+|206	|	How to	|	Cómo hacer	|	[haʊtuː](https://es.youglish.com/pronounce/How%20to/english?)	|	Mosh taught us how to code a calculator|
+|207	|	Know how	|	la experiencia/ el expertise	|	[noʊhaʊ](https://es.youglish.com/pronounce/Know%20how/english?)	|	Now we have primitive  know how  on Python|
+|208	|	How about you?	|	Qué hay de ti? Y tú?	|	[haʊəˈbaʊtjuː](https://es.youglish.com/pronounce/How%20about%20you%3F/english?)	|	I’m a self-taught developer, how about you?|
+|209	|	Sequence	|	Secuencia	|	[ˈsiː.kwəns](https://es.youglish.com/pronounce/Sequence/english?)	|	The software developer implemented a sequence of steps to automate the data backup process.|
+|210	|	Supply	|	suministro	|	[səˈplaɪ](https://es.youglish.com/pronounce/Supply/english?)	|	The procurement department ensured an uninterrupted supply of computer components for the upcoming hardware upgrade project.|
+|211	|	Odd	|	impar o extraño	|	[ɒd](https://es.youglish.com/pronounce/Odd/english?)	|	The IT technician noticed an odd pattern of network traffic that required further investigation to identify the source.|
+|212	|	Tuples	|	tuplas: used to store multiple items in a single variable	|	[ˈtjuːpəl](https://es.youglish.com/pronounce/Tuples/english?)	|	The database query returned a set of tuples containing the relevant customer information, ready for further analysis.|
+|213	|	occurrences	|	las veces que sucede	|	[əˈkʌr.əns](https://es.youglish.com/pronounce/occurrences%20/english?)	|	The log file analysis revealed multiple occurrences of the error message, indicating a potential issue with the server configuration.|
+|214	|	accidentally	|	accidentalmente	|	[ˌæk.sɪˈden.təl.i](https://es.youglish.com/pronounce/accidentally/english?)	|	One of the developers accidentally deleted a critical file, but the IT team swiftly recovered it from the backup.|
+|215	|	completion	|	completar	|	[kəmˈpliː.ʃən](https://es.youglish.com/pronounce/completion/english?)	|	The software development project is nearing completion, with only a few minor tasks remaining before the final release.|
+|217	|	interested	|	interesado	|	[ˈɪn.tres.tɪd](https://es.youglish.com/pronounce/interested/english?)	|	The IT department is actively seeking talented and motivated individuals who are interested in joining the team.|
+|218	|	resume	|	currículum	|	[rɪˈzjuːm](https://es.youglish.com/pronounce/resume/english?_)	|	Before considering a candidate for the IT position, the hiring manager carefully reviews their resume to evaluate their qualifications and experience.|
+|219	|	a few fries short of a happy meal	|	te faltan 10 centavos pal peso, no le sube agua al tinaco, le falta un tornillo	|	[əfjufraɪzʃɔrtəvəˈhæpimil](https://es.youglish.com/pronounce/a%20few%20fries%20short%20of%20a%20happy%20meal%20/english?)	|	I'm sorry, but that programmer seems to be a few fries short of a happy meal when it comes to understanding basic coding concepts.”|
+|220	|	display	|	desplegar/ pantalla	|	[dɪˈspleɪ](https://es.youglish.com/pronounce/display/english?)	|	the function print displays a result|
+|221	|	even	|	even number es un número par,también hace referencia a la palabra “aunque” y “parejo” “plano”	|	[ˈiː.vən](https://es.youglish.com/pronounce/even/english?)	|	the modulus 2 of an even number is zero// Even a novice knows that!|
+|222	|	hint	|	pista	|	[hɪnt](https://es.youglish.com/pronounce/hint/english?)	|	In Pycharm the errors give you hints|
+|223	|	reminder	|	recordatorio	|	[rɪˈmaɪn.dər](https://es.youglish.com/pronounce/reminder%20/english?)	|	The IT team sends out regular email reminders to all employees, reminding them to update their passwords for improved security.|
+|224	|	remainder	|	residuo	|	[rɪˈmeɪn.dər](https://es.youglish.com/pronounce/remainder/english?)	|	After dividing the workload evenly among team members, there was a remainder of tasks that required additional attention and allocation.|
+|225	|	remember	|	recordar	|	[rɪˈmem.bər](https://es.youglish.com/pronounce/remember/english?)	|	As a best practice, IT professionals should remember to regularly back up important data to prevent loss in case of system failures or security breaches.|
+|226	|	remembrance	|	remembranza	|	[rɪˈmem.brəns](https://es.youglish.com/pronounce/remembrance/english?)	|	The company organized a special event in remembrance of the IT team's accomplishments and contributions throughout the year.|
+|227	|	backend	|	lo que pasa tras bambalinas	|	[ˌbæk.end](https://youglish.com/pronounce/backend/english?)	|	Today we were mentored by a professional backend developer|
 |228	|	ruby on rails	|	ruby= rubí =programming language	|	https://youglish.com/pronounce/ruby%20on%20rails/english?	|	luckily our guest today didn’t ask us about ruby on rails|
-|229	|	mentorship	|	rails= rieles = es el framework	|	https://youglish.com/pronounce/mentorship/english?	|	You can get a mentorship with Luis if you send him a DM|
-|230	|	mentee	|	mentoria	|	https://forvo.com/search/mentee/	|	Luis has lots of successful mentees in his program|
+|229	|	mentorship	|	rails= rieles = es el framework	|	[ˈruːbiɒnreɪlz](https://youglish.com/pronounce/mentorship/english?)	|	You can get a mentorship with Luis if you send him a DM|
+|230	|	mentee	|	mentoria	|	[menˈtiː](https://forvo.com/search/mentee/)	|	Luis has lots of successful mentees in his program|
 |		|	|	mentoreado	|		|	| 
-|	|	engineer	|	ingeniero	|	https://youglish.com/pronounce/engineer/english?	|	We need to engineer a solution to long queues at the airport|
-|231	|	entry level position	|	posición de principiante	|	https://youglish.com/pronounce/entry%20level%20position/english?	|	We’ve just applied to get an entry level position, but we didn’t get it|
-|232	|	test cases	|	casos de prueba	|	https://youglish.com/pronounce/test%20cases/english?	|	Developers meticulously design and execute test cases to ensure the robustness and reliability of their software applications.|
-|233	|	legacy code	|	código de legado/heredado	|	https://youglish.com/pronounce/legacy%20code/english?	|	refactoring the legacy code improves its performance|
-|234	|	amongst	|	etre pero no en medio	|	https://forvo.com/search/amongst/	|	Python is a very popular language amongst developers, mathematicians, data scientis|
-|235	|	mathematician	|	mátematicos	|	https://forvo.com/search/mathematician/	|	Mathematicians help write better code|
-|236	|	special	|	especial	|	https://forvo.com/search/special/	|	Make sure your password has at least one special character|
-|237	|	less time	|	menos tiempo	|	https://youglish.com/pronounce/less%20time/english?	|	A “hello world” in python woudl take less time than in C++|
-|238	|	fewer lines	|	menos (más poquitas) líneas	|	https://youglish.com/pronounce/fewer%20lines/english?	|	When you use OOP you write fewer lines of code|
-|29	|	solve	|	solucionar	|	https://forvo.com/search/solve/	|	I have to solve a LeetCode problem in my next job interview|
-|240	|	complex	|	complejo	|	https://forvo.com/search/complex/	|	Twitter’s algorithm is getting kind of complex|
-|241	|	refactoring	|	refactorización	|	https://forvo.com/search/refactoring/	|	The software has become difficult to maintain. We need to do some serious refactoring to improve the code's readability and structure|
-|242	|	machine	|	maquina	|	https://forvo.com/search/machine/	|	Machine learning is the future|
-|243	|	in fact/actually/indeed	|	de hecho	|	https://forvo.com/search/indeed/	|	Ifact AI will revolutionize tech industry|
-|244	|	desirable	|	deseable	|	https://forvo.com/search/desirable/	|	A latin american full stack developer with B2 English is extremely desirable|
-|245	|	high level language- low level language	|	lenguaje de alto nivel -lenguaje de bajo nivel	|	https://youglish.com/pronounce/high%20level%20language/english?	|	GO, Python and C# are high level languages|
-|246	|	cross-platform	|	multi-plataforma	|	https://youglish.com/pronounce/cross%20platform/english?	|	Python is a cross-platform language|
-|247	|	it’s likely	|	Es probable	|	https://youglish.com/pronounce/it%27s%20likely/english?	|	It’s likely that your dream job will require an English interview|
-|248	|	outdated	|	desactualizado	|	https://forvo.com/search/outdated/	|	Using outdated software would probably get you security issues|
-|249	|	obsolete	|	obsoleto	|	https://forvo.com/search/obsolete/	|	They claim php is obsolete|
-|250	|	taught	|	enseñó	|	https://forvo.com/search/taught/	|	Mosh taught us the importance that an average python dev earns something around 115k in the US|
-|251	|	latest	|	el más reciente	|	https://forvo.com/search/latest/	|	have you seen Elon’s latest tweet?|
-|252	|	fill out/fill in	|	llenar/completar	|	https://youglish.com/pronounce/fill%20out/english?	|	Fill out the following form|
+|	|	engineer	|	ingeniero	|	[ˌen.dʒɪˈnɪər](https://youglish.com/pronounce/engineer/english?)	|	We need to engineer a solution to long queues at the airport|
+|231	|	entry level position	|	posición de principiante	|	[ˈɛntriˈlɛvəlpəˈzɪʃən](https://youglish.com/pronounce/entry%20level%20position/english?)	|	We’ve just applied to get an entry level position, but we didn’t get it|
+|232	|	test cases	|	casos de prueba	|	[tɛstˈkeɪsɪz](https://youglish.com/pronounce/test%20cases/english?)	|	Developers meticulously design and execute test cases to ensure the robustness and reliability of their software applications.|
+|233	|	legacy code	|	código de legado/heredado	|	[ˈleɡəsikoʊd](https://youglish.com/pronounce/legacy%20code/english?)	|	refactoring the legacy code improves its performance|
+|234	|	amongst	|	etre pero no en medio	|	[əˈmʌŋst](https://forvo.com/search/amongst/)	|	Python is a very popular language amongst developers, mathematicians, data scientis|
+|235	|	mathematician	|	mátematicos	|	[ˌmæθ.əm.əˈtɪʃ.ən](https://forvo.com/search/mathematician/)	|	Mathematicians help write better code|
+|236	|	special	|	especial	|	[ˈspeʃ.əl](https://forvo.com/search/special/)	|	Make sure your password has at least one special character|
+|237	|	less time	|	menos tiempo	|	[lɛstaɪm](https://youglish.com/pronounce/less%20time/english?)	|	A “hello world” in python woudl take less time than in C++|
+|238	|	fewer lines	|	menos (más poquitas) líneas	|	[ˈfjuːərlaɪnz](https://youglish.com/pronounce/fewer%20lines/english?)	|	When you use OOP you write fewer lines of code|
+|29	|	solve	|	solucionar	|	[sɒlv](https://forvo.com/search/solve/)	|	I have to solve a LeetCode problem in my next job interview|
+|240	|	complex	|	complejo	|	[ˈkɒm.pleks](https://forvo.com/search/complex/)	|	Twitter’s algorithm is getting kind of complex|
+|241	|	refactoring	|	refactorización	|	[riˈfæktərɪŋ](https://forvo.com/search/refactoring/)	|	The software has become difficult to maintain. We need to do some serious refactoring to improve the code's readability and structure|
+|242	|	machine	|	maquina	|	[məˈʃiːn](https://forvo.com/search/machine/)	|	Machine learning is the future|
+|243	|	in fact/actually/indeed	|	de hecho	|	[ɪnˈdiːd](https://forvo.com/search/indeed/)	|	Ifact AI will revolutionize tech industry|
+|244	|	desirable	|	deseable	|	[dɪˈzaɪə.rə.bəl](https://forvo.com/search/desirable/)	|	A latin american full stack developer with B2 English is extremely desirable|
+|245	|	high level language- low level language	|	lenguaje de alto nivel -lenguaje de bajo nivel	|	[haɪˈlɛvəlˈlæŋɡwɪdʒ](https://youglish.com/pronounce/high%20level%20language/english?)	|	GO, Python and C# are high level languages|
+|246	|	cross-platform	|	multi-plataforma	|	[krɒsˈplæt.fɔːrm](https://youglish.com/pronounce/cross%20platform/english?)	|	Python is a cross-platform language|
+|247	|	it’s likely	|	Es probable	|	[ɪtsˈlaɪkli](https://youglish.com/pronounce/it%27s%20likely/english?)	|	It’s likely that your dream job will require an English interview|
+|248	|	outdated	|	desactualizado	|	[ˌaʊtˈdeɪ.tɪd](https://forvo.com/search/outdated/)	|	Using outdated software would probably get you security issues|
+|249	|	obsolete	|	obsoleto	|	[ˌɒb.səlˈiːt](https://forvo.com/search/obsolete/)	|	They claim php is obsolete|
+|250	|	taught	|	enseñó	|	[tɔːt](https://forvo.com/search/taught/)	|	Mosh taught us the importance that an average python dev earns something around 115k in the US|
+|251	|	latest	|	el más reciente	|	[ˈleɪ.tɪst](https://forvo.com/search/latest/)	|	have you seen Elon’s latest tweet?|
+|252	|	fill out/fill in	|	llenar/completar	|	[fɪlaʊt](https://youglish.com/pronounce/fill%20out/english?)	|	Fill out the following form|
 | | |||								you have to fill in every blank|
-|253	|	high-paying	|	bien remunerado	|	https://youglish.com/pronounce/high%20paying/english?	|	You won’t get a high-paying job if you don’t get out of your comfort zone|
-|254	|	lasting	|	duradero	|	https://forvo.com/search/lasting/	|	A single data breach can have lasting consecuences in your organization|
-|255	|	get stuck	|	atorarse	|	https://youglish.com/pronounce/get%20stuck/english?	|	as a developer it’s important to reach out to the community whenever you get stuck|
-|256	|	head over	|	dirigirse	|	https://youglish.com/pronounce/head%20over/english?	|	head over to codigo facilito site to enroll to our latest bootcamp|
-|257	|	under	|	en tal sección	|	https://forvo.com/search/under/	|	Create a new folder under the word file|
-|258	|	make sure	|	asegurate	|	https://youglish.com/pronounce/make%20sure/english?	|	Make sure you have the latest Python version|
-|259	|	otherwise	|	de lo contrario	|	https://forvo.com/search/otherwise/	|	Always initialize your variables; otherwise, you might encounter unexpected behavior in your code|
-|260	|	verify	|	verifica	|	https://forvo.com/search/verify/	|	Open a terminal to verify what Python version you have|
+|253	|	high-paying	|	bien remunerado	|	[haɪpeɪɪŋ](https://youglish.com/pronounce/high%20paying/english?)	|	You won’t get a high-paying job if you don’t get out of your comfort zone|
+|254	|	lasting	|	duradero	|	[ˈlɑː.stɪŋ](https://forvo.com/search/lasting/)	|	A single data breach can have lasting consecuences in your organization|
+|255	|	get stuck	|	atorarse	|	[ɡɛtstʌk](https://youglish.com/pronounce/get%20stuck/english?)	|	as a developer it’s important to reach out to the community whenever you get stuck|
+|256	|	head over	|	dirigirse	|	[hɛdˈoʊvər](https://youglish.com/pronounce/head%20over/english?)	|	head over to codigo facilito site to enroll to our latest bootcamp|
+|257	|	under	|	en tal sección	|	[ˈʌn.dər](https://forvo.com/search/under/)	|	Create a new folder under the word file|
+|258	|	make sure	|	asegurate	|	[meɪkʃʊr](https://youglish.com/pronounce/make%20sure/english?)	|	Make sure you have the latest Python version|
+|259	|	otherwise	|	de lo contrario	|	[ˈʌð.ə.waɪz](https://forvo.com/search/otherwise/)	|	Always initialize your variables; otherwise, you might encounter unexpected behavior in your code|
+|260	|	verify	|	verifica	|	[ˈver.ɪ.faɪ](https://forvo.com/search/verify/)	|	Open a terminal to verify what Python version you have|
 |261	|	interpreter	|	interprete	|	https://forvo.com/search/interpreter/	|	Python uses an interpreter to execute its code line by line|
 |262	|	debugging	|	arreglar el bug	|	https://forvo.com/search/debugging/	|	Debugging is an essential process in programming that involves identifying and removing errors from code|
 |263	|	for both	|	tanto para uno como el otro	|	https://youglish.com/pronounce/for%20both/english?	|	For both Mac and PC you need to install the most recent version of VS Code|
