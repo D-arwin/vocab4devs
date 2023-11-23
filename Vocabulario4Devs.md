@@ -344,80 +344,80 @@
 |277	|	caller function	|	función que llama	|	[ˈkɔlərˈfʌŋkʃən](https://youglish.com/pronounce/caller%20function/english?)	|	The caller function is responsible for initiating the execution of a specific subroutine in an IT system|
 |278	|	palette	|	paleta (de herramientas)	|	[ˈpæl.ət](https://forvo.com/search/palette/)	|	Command palette allows you to quickly look for commands|
 |279	|	HUD	|	Heads Up Display/ pantalla de datos	|	[heɪjuːdiː](https://youglish.com/pronounce/HUD/english/uk?)	|	Heads up display gives the user useful information|
-|280	|	Enhancement	|	Una mejora	|	https://forvo.com/search/enhancement/	|	The latest software update includes several performance enhancements for faster data processing.|
-|281	|	PEP	|	Python Enhancement Proposal	|	https://youglish.com/pronounce/PEP/english/uk?	|	The implementation of Python Enhancement Proposal 523 has greatly improved the efficiency and security|
-|282	|	Look	|	Mira (enfocado)	|	https://forvo.com/search/look/	|	Look at your terminal for information about errors.|
-|283	|	See	|	Ver (unconciously)	|	https://forvo.com/search/see/	|	Programmers often see their code come to life.|
-|284	|	Amongst	|	Entre	|	https://forvo.com/search/amongst/	|	Amongst programmers is widely use.|
-|285	|	Bunch of rules	|	Un bonche, un montón, un puño	|	https://youglish.com/pronounce/bunch%20of%20rules/english?	|	Python has a bunch of rules.|
-|286	|	Conventions	|	Estandares	|	https://forvo.com/search/conventions/	|	PEPs help developers follow conventions.|
-|287	|	Throughout	|	A través, a lo largo y ancho.	|	https://forvo.com/search/throughout/	|	Throughout your career you’ll need English.|
-|288	|	Import	|	Importar (importación) no confundir con importancia	|	https://forvo.com/search/import/	|	The IT department needs to import the latest software updates for enhanced security.|
+|280	|	Enhancement	|	Una mejora	|	[ɪnˈhɑːns.mənt](https://forvo.com/search/enhancement/)	|	The latest software update includes several performance enhancements for faster data processing.|
+|281	|	PEP	|	Python Enhancement Proposal	|	[piːiːpiː](https://youglish.com/pronounce/PEP/english/uk?)	|	The implementation of Python Enhancement Proposal 523 has greatly improved the efficiency and security|
+|282	|	Look	|	Mira (enfocado)	|	[Look](https://forvo.com/search/look/)	|	Look at your terminal for information about errors.|
+|283	|	See	|	Ver (unconciously)	|	[siː](https://forvo.com/search/see/)	|	Programmers often see their code come to life.|
+|284	|	Amongst	|	Entre	|	[əˈmʌŋst](https://forvo.com/search/amongst/)	|	Amongst programmers is widely use.|
+|285	|	Bunch of rules	|	Un bonche, un montón, un puño	|	[bʌntʃʌvrulz](https://youglish.com/pronounce/bunch%20of%20rules/english?)	|	Python has a bunch of rules.|
+|286	|	Conventions	|	Estandares	|	[kənˈven.ʃən](https://forvo.com/search/conventions/)	|	PEPs help developers follow conventions.|
+|287	|	Throughout	|	A través, a lo largo y ancho.	|	[θruːˈaʊt](https://forvo.com/search/throughout/)	|	Throughout your career you’ll need English.|
+|288	|	Import	|	Importar (importación) no confundir con importancia	|	[ɪmˈpɔːt](https://forvo.com/search/import/)	|	The IT department needs to import the latest software updates for enhanced security.|
 | | |||								Self motivation is important for any tech job.|
-|289	|	job vs work	|	job = puesto, tareas	|	https://youglish.com/pronounce/job%20and%20work/english/uk?	|	Before deploying the update, we must thoroughly test our code to ensure all components work as intended in the software development process.|
-|290	|	Machine	|	máquina	|	https://forvo.com/search/machine/	|	We need to repair a machine in the server room|
-|291	|	languages	|	lenguajes	|	https://forvo.com/search/languages/	|	Mosh said that developers can agree on a single OS or a single programming language|
-|292	|	compiler	|	compilador	|	https://forvo.com/search/compiler/	|	The compiler translates the high-level programming code into machine language that the computer can understand.|
-|293	|	interpreter	|	interprete	|	https://forvo.com/search/interpreter/	|	The Python interpreter converts and executes each line of code in real-time|
+|289	|	job vs work	|	job = puesto, tareas	|	[dʒɒbviːwɜːrk](https://youglish.com/pronounce/job%20and%20work/english/uk?)	|	Before deploying the update, we must thoroughly test our code to ensure all components work as intended in the software development process.|
+|290	|	Machine	|	máquina	|	[məˈʃiːn](https://forvo.com/search/machine/)	|	We need to repair a machine in the server room|
+|291	|	languages	|	lenguajes	|	[ˈlæŋ.gwɪdʒ](https://forvo.com/search/languages/)	|	Mosh said that developers can agree on a single OS or a single programming language|
+|292	|	compiler	|	compilador	|	[kəmˈpaɪlər](https://forvo.com/search/compiler/)	|	The compiler translates the high-level programming code into machine language that the computer can understand.|
+|293	|	interpreter	|	interprete	|	[ɪnˈtɜː.prə.tər](https://forvo.com/search/interpreter/)	|	The Python interpreter converts and executes each line of code in real-time|
 |294	|	kicks in	|	arrancar/ activar	|	https://youglish.com/pronounce/kicks%20in/english/uk?	|	when you write to a chatbot an automatic response kicks in|
 |295	|	load	|	carga	|	https://forvo.com/search/load/	|	The programmer had to debug the issue when the software failed to load the required libraries correctly|
-|296	|	kick off	|	iniciar	|	https://youglish.com/pronounce/kick%20off/english/uk?	|	The development team will kick off the project by conducting a comprehensive analysis of the system requirements.|
-|297	|	JVM	|	Máquina virtual Java	|	https://youglish.com/pronounce/JVM/english/uk?	|	The Java Virtual Machine (JVM) is responsible for executing Java bytecode and providing a platform-independent runtime environment for Java applications.|
-|298	|	Byte vs Bite	|	Byte vs Bite	|	https://youglish.com/pronounce/Byte/english/uk?	|	The file size is measured in bytes, with each byte representing a unit of digital information.|
-|299	|	Let you know	|	te lo haré saber	|	https://youglish.com/pronounce/Let%20you%20know/english/uk?	|	Once the software update is complete, I will let you know so that you can test the new features and improvements.|
-|300	|	scenarios	|	escenarios	|	https://forvo.com/search/scenarios/	|	The IT team conducted various testing scenarios to ensure the system's performance and functionality under different conditions.|
-|301	|	tasks	|	tareas	|	https://forvo.com/search/tasks/	|	The project management software allows users to assign, track, and prioritize tasks for efficient collaboration within the IT team.|
-|302	|	primitive type	|	tipo primitivo	|	https://youglish.com/pronounce/primitive%20type/english/uk?	|	Boolean, string, integers, and float are primitve values in Python|
-|303	|	Merged	|	fusión	|	https://forvo.com/search/merged/	|	We can merge the database to consolidate the data|
-|304	|	fixed	|	arreglar/fijar	|	https://forvo.com/search/fixed/	|	The developer fixed the bug|
+|296	|	kick off	|	iniciar	|	[kɪksɪn](https://youglish.com/pronounce/kick%20off/english/uk?)	|	The development team will kick off the project by conducting a comprehensive analysis of the system requirements.|
+|297	|	JVM	|	Máquina virtual Java	|	[ˌdʒeɪˌviːˈɛm](https://youglish.com/pronounce/JVM/english/uk?)	|	The Java Virtual Machine (JVM) is responsible for executing Java bytecode and providing a platform-independent runtime environment for Java applications.|
+|298	|	Byte vs Bite	|	Byte vs Bite	|	[baɪtvəsbaɪt](https://youglish.com/pronounce/Byte/english/uk?)	|	The file size is measured in bytes, with each byte representing a unit of digital information.|
+|299	|	Let you know	|	te lo haré saber	|	[lɛtjʊnoʊ](https://youglish.com/pronounce/Let%20you%20know/english/uk?)	|	Once the software update is complete, I will let you know so that you can test the new features and improvements.|
+|300	|	scenarios	|	escenarios	|	[sɪˈnɑː.ri.əʊ](https://forvo.com/search/scenarios/)	|	The IT team conducted various testing scenarios to ensure the system's performance and functionality under different conditions.|
+|301	|	tasks	|	tareas	|	[tɑːsk](https://forvo.com/search/tasks/)	|	The project management software allows users to assign, track, and prioritize tasks for efficient collaboration within the IT team.|
+|302	|	primitive type	|	tipo primitivo	|	[ˈprɪmɪtɪvtaɪp](https://youglish.com/pronounce/primitive%20type/english/uk?)	|	Boolean, string, integers, and float are primitve values in Python|
+|303	|	Merged	|	fusión	|	[mɜːdʒ](https://forvo.com/search/merged/)	|	We can merge the database to consolidate the data|
+  |304	|	fixed	|	arreglar/fijar	|	[fɪkst(https://forvo.com/search/fixed/)	|	The developer fixed the bug|
 | | |||								I fixed the types of variables at the begging when I use C#|
-|305	|	helped	|	ayudó/ ayudé	|	https://forvo.com/search/helped/	|	The suppport team helped me log into my account|
-|306	|	coordinates	|	cordina/coordenadas	|	https://forvo.com/search/coordinates/	|	The system administrator used the precise coordinates to pinpoint the ecat location of the network issue.|
-|307	|	equivalent	|	equivalente	|	https://forvo.com/search/equivalent/	|	My company replaced my computer with one of equivalent processing power|
-|308	|	initialized	|	inicializado	|	https://forvo.com/search/equivalent/	|	The server was succesfully initialized.|
-|309	|	set	|	establecer	|	https://forvo.com/search/set/	|	Let’s set a variable|
-|310	|	dynamic	|	dinámico	|	https://forvo.com/search/dynamic/	|	The dynamic allocation of computing resources allows for efficient scaling|
-|311	|	typing	|	teclear	|	https://forvo.com/search/typing/	|	My typing speed is a hundred words perd minute|
-|312	|	typo	|	un error de dedo	|	https://forvo.com/search/typo/	|	Carlos can type 300 wpm but 200 are typos|
-|313	|	static	|	Estático	|	https://forvo.com/search/static/	|	C#, C++, and Java are static languages|
-|314	|	determine	|	determinar	|	https://forvo.com/search/determine/	|	The IT department will conduct a thorough investigation to determine the cause of the network outage.|
-|315	|	hover	|	flotar	|	https://forvo.com/search/hover/	|	When you hover your mouse cursor over the icon, a tooltip will appear with additional information about the function.|
-|316	|	instances	|	instancias	|	https://forvo.com/search/instances/	|	The cloud service allows users to create multiple instances of virtual machines to meet their computing needs.|
-|317	|	take away	|	sacar, aprender	|	https://youglish.com/pronounce/take%20away/english/uk?	|	One of the key takeaways from the IT conference was the importance of implementing robust cybersecurity measures to protect sensitive data.|
-|318	|	take out	|	comida para llevar	|	https://youglish.com/pronounce/take%20out/english/uk?	|	I often order take out.|
-|319	|	at run time	|	al momento de correr	|	https://youglish.com/pronounce/at%20run%20time/english?	|	The program dynamically adjusts its behavior at run time based on user inputs and system conditions.|
-|320	|	hinting	|	insinuar	|	https://forvo.com/search/hinting/	|	The IDE's code editor provides helpful hinting by suggesting possible function names as I type, improving my coding efficiency.|
-|321	|	label	|	etiqueta/ nombrar	|	https://youglish.com/pronounce/label/english?	|	Make sure to properly label variables for code readability|
-|322	|	references	|	hacer referencia	|	https://forvo.com/search/references/	|	The code is cleaner now with fewer references to outdated libraries|
-|323	|	garbage	|	basura	|	https://youglish.com/pronounce/garbage/english?	|	In Python, the garbage collector frees up memory|
-|324	|	trash	|	darle en su mouser	|	https://youglish.com/pronounce/trash%20it/english?	|	In Python you can use the delete key to remove an object or send it to the trash|
-|325	|	slot	|	espacio	|	https://youglish.com/pronounce/slot/english?	|	The new application requires twice the memory slot capacity to perform efficiently.|
-|326	|	RAM	|	Random acces memory	|	https://forvo.com/search/RAM/	|	The program's performance improved after upgrading the RAM|
-|327	|	Mutable	|	mutable	|	https://forvo.com/search/mutable/	|	In Python lists are mutable|
-|328	|	Immutable	|	Inmutable	|	https://forvo.com/search/immutable/	|	Strings and tuples|
-|329	|	reusable	|	reutilizable	|	https://youglish.com/pronounce/reusable/english?	|	the software update includes reusable code|
+|305	|	helped	|	ayudó/ ayudé	|	[hɛlpt](https://forvo.com/search/helped/)	|	The suppport team helped me log into my account|
+|306	|	coordinates	|	cordina/coordenadas	|	[kəʊˈɔː.dɪ.neɪt](https://forvo.com/search/coordinates/)	|	The system administrator used the precise coordinates to pinpoint the ecat location of the network issue.|
+|307	|	equivalent	|	equivalente	|	[ɪˈkwɪv.əl.ənt](https://forvo.com/search/equivalent/)	|	My company replaced my computer with one of equivalent processing power|
+|308	|	initialized	|	inicializado	|	[ɪˈnɪʃ.əl.aɪz](https://forvo.com/search/equivalent/)	|	The server was succesfully initialized.|
+|309	|	set	|	establecer	|	[set](https://forvo.com/search/set/)	|	Let’s set a variable|
+|310	|	dynamic	|	dinámico	|	[daɪˈnæm.ɪk](https://forvo.com/search/dynamic/)	|	The dynamic allocation of computing resources allows for efficient scaling|
+|311	|	typing	|	teclear	|	[ˈtaɪ.pɪŋ](https://forvo.com/search/typing/)	|	My typing speed is a hundred words perd minute|
+|312	|	typo	|	un error de dedo	|	[ˈtaɪpoʊ](https://forvo.com/search/typo/)	|	Carlos can type 300 wpm but 200 are typos|
+|313	|	static	|	Estático	|	[ˈstæt.ɪk](https://forvo.com/search/static/)	|	C#, C++, and Java are static languages|
+|314	|	determine	|	determinar	|	[dɪˈtɜː.mɪn](https://forvo.com/search/determine/)	|	The IT department will conduct a thorough investigation to determine the cause of the network outage.|
+|315	|	hover	|	flotar	|	[ˈhɒv.ər](https://forvo.com/search/hover/)	|	When you hover your mouse cursor over the icon, a tooltip will appear with additional information about the function.|
+|316	|	instances	|	instancias	|	[ˈɪn.stəns](https://forvo.com/search/instances/)	|	The cloud service allows users to create multiple instances of virtual machines to meet their computing needs.|
+|317	|	take away	|	sacar, aprender	|	[teɪkəˈweɪ](https://youglish.com/pronounce/take%20away/english/uk?)	|	One of the key takeaways from the IT conference was the importance of implementing robust cybersecurity measures to protect sensitive data.|
+|318	|	take out	|	comida para llevar	|	[teɪkaʊt](https://youglish.com/pronounce/take%20out/english/uk?)	|	I often order take out.|
+|319	|	at run time	|	al momento de correr	|	[ætrʌntaɪm](https://youglish.com/pronounce/at%20run%20time/english?)	|	The program dynamically adjusts its behavior at run time based on user inputs and system conditions.|
+|320	|	hinting	|	insinuar	|	[hɪntɪŋ](https://forvo.com/search/hinting/)	|	The IDE's code editor provides helpful hinting by suggesting possible function names as I type, improving my coding efficiency.|
+|321	|	label	|	etiqueta/ nombrar	|	[ˈleɪ.bəl](https://youglish.com/pronounce/label/english?)	|	Make sure to properly label variables for code readability|
+|322	|	references	|	hacer referencia	|	[ˈrɛfərənsɪz](https://forvo.com/search/references/)	|	The code is cleaner now with fewer references to outdated libraries|
+|323	|	garbage	|	basura	|	[ˈgɑː.bɪdʒ](https://youglish.com/pronounce/garbage/english?)	|	In Python, the garbage collector frees up memory|
+|324	|	trash	|	darle en su mouser	|	[træʃ](https://youglish.com/pronounce/trash%20it/english?)	|	In Python you can use the delete key to remove an object or send it to the trash|
+|325	|	slot	|	espacio	|	[slɒt](https://youglish.com/pronounce/slot/english?)	|	The new application requires twice the memory slot capacity to perform efficiently.|
+|326	|	RAM	|	Random acces memory	|	[ræm](https://forvo.com/search/RAM/)	|	The program's performance improved after upgrading the RAM|
+|327	|	Mutable	|	mutable	|	[ˈmjuː.tə.bəl](https://forvo.com/search/mutable/)	|	In Python lists are mutable|
+|328	|	Immutable	|	Inmutable	|	[ɪˈmjuː.tə.bəl](https://forvo.com/search/immutable/)	|	Strings and tuples|
+|329	|	reusable	|	reutilizable	|	[ˌriːˈjuː.zə.bəl](https://youglish.com/pronounce/reusable/english?)	|	the software update includes reusable code|
 |330	|	exclude	|	excluir	|		|	Privacy settings allow de user to exclude certain contacts|
-|331	|	take into account	|	tomar en cuenta	|	https://youglish.com/pronounce/take%20into%20account/english?	|	Take into account that Python string indexing starts at zero|
-|332	|	sequence	|	sequencia	|	https://forvo.com/search/sequence/	|	The dev implemented a sequence of commands to automate the data backup process|
-|333	|	interpreter	|	intérprete	|	https://forvo.com/search/interpreter/	|	The software engineer developed an interpreter to excute and translate the code|
-|334	|	at the beging/in the beginig	|	al principio at= sin dram in= con drama	|	https://youglish.com/pronounce/in%20the%20begining/english?	|	at the beging of the code you can find the libraries|
-|335	|	just before	|	justo antes	|	https://youglish.com/pronounce/just%20before/english?	|	the system crashed just before I was able to save|
-|336	|	for whatever reason	|	como haya sido	|	https://youglish.com/pronounce/for%20whatever%20reason/english?	|	For whatever reason my code doesn’t run|
-|337	|	borrow/lend	|	tomar prestado/prestar	|	https://forvo.com/search/borrow/	|	My colleague borrowed my computer to test his code|
-|338	|	backlash	|	consecuencia	|	https://forvo.com/search/backlash/	|	Te backlash of a weak password may be a compromise in the network.|
+|331	|	take into account	|	tomar en cuenta	|	[teɪkˈɪntuəˈkaʊnt](https://youglish.com/pronounce/take%20into%20account/english?)	|	Take into account that Python string indexing starts at zero|
+|332	|	sequence	|	sequencia	|	[ˈsiː.kwəns](https://forvo.com/search/sequence/)	|	The dev implemented a sequence of commands to automate the data backup process|
+|333	|	interpreter	|	intérprete	|	[ɪnˈtɜː.prə.tər](https://forvo.com/search/interpreter/)	|	The software engineer developed an interpreter to excute and translate the code|
+|334	|	at the beging/in the beginig	|	al principio at= sin dram in= con drama	|	[ɪnðəbɪˈɡɪnɪŋ](https://youglish.com/pronounce/in%20the%20begining/english?)	|	at the beging of the code you can find the libraries|
+|335	|	just before	|	justo antes	|	[dʒʌstbɪˈfɔr](https://youglish.com/pronounce/just%20before/english?)	|	the system crashed just before I was able to save|
+|336	|	for whatever reason	|	como haya sido	|	[fɔrwʌˈɛvərˈriːzən](https://youglish.com/pronounce/for%20whatever%20reason/english?)	|	For whatever reason my code doesn’t run|
+|337	|	borrow/lend	|	tomar prestado/prestar	|	[ˈbɒr.əʊ](https://forvo.com/search/borrow/)	|	My colleague borrowed my computer to test his code|
+|338	|	backlash	|	consecuencia	|	[ˈbæk.læʃ](https://forvo.com/search/backlash/)	|	Te backlash of a weak password may be a compromise in the network.|
 |339	|	backslash	|	diagonal invertida	|		|	Remember to use backslash, not the regular slash|
-|340	|	depending on	|	depende de	|	https://youglish.com/pronounce/depending%20on/english?	|	Depending on the salary, I may take the job offer|
-|341	|	escape character	|		|	https://youglish.com/pronounce/escape%20character/english?	|	After reviewing the server logs, we are certain that the system outage was caused by a DDoS attack.Backslash n is an escape character|
-|342	|	few other	|	unos cuantos otros	|	https://youglish.com/pronounce/few%20other/english?	|	Besides Python, a few other programming languages are case sensitive.|
-|343	|	prefix	|	prefijar	|	https://forvo.com/search/prefix/	|	You can prefix the value of a variable.|
-|344	|	not quite	|	no exactamente	|	https://youglish.com/pronounce/not%20quite/english?	|	Apple vision is not quite affordable yet.|
-|345	|	quiet	|	callado	|	https://forvo.com/search/quiet/	|	I college I was very quiet.|
-|346	|	Strip	|	despojar	|	https://forvo.com/search/strip/	|	We can use the strip method to get rid of white spaces|
-|347	|	get rid	|	deshacerse	|	https://youglish.com/pronounce/get%20rid/english?	|	We need to get rid of the legacy code that's slowing down our software development process|
-|348	|	white space	|	espacio en blanco	|	https://youglish.com/pronounce/white%20space/english?	|	white spaces improve readbility in software development|
-|349	|	are gone	|	se fueron/ ya no existen	|	https://youglish.com/pronounce/are%20gone/english?	|	The older versions of our software are gone; we have upgraded to a much more efficient system|
-|350	|	remainder	|	residuo de una división	|	https://forvo.com/search/remainder/	|	After dividing the large dataset into smaller batches, there was a remainder of 10 data points|
-|351	|	unlike	|	improbable/ A DIFERENCIA DE	|	https://forvo.com/search/unlike/	|	Python unlike java script doesn’t use ++ operator|
+|340	|	depending on	|	depende de	|	[dɪˈpɛndɪŋɒn](https://youglish.com/pronounce/depending%20on/english?)	|	Depending on the salary, I may take the job offer|
+|341	|	escape character	|		|	[ɪˈskeɪpˈkærɪktər](https://youglish.com/pronounce/escape%20character/english?)	|	After reviewing the server logs, we are certain that the system outage was caused by a DDoS attack.Backslash n is an escape character|
+|342	|	few other	|	unos cuantos otros	|	[fjuˈʌðər](https://youglish.com/pronounce/few%20other/english?)	|	Besides Python, a few other programming languages are case sensitive.|
+|343	|	prefix	|	prefijar	|	[ˈpriː.fɪks](https://forvo.com/search/prefix/)	|	You can prefix the value of a variable.|
+|344	|	not quite	|	no exactamente	|	[nɒtkwaɪt](https://youglish.com/pronounce/not%20quite/english?)	|	Apple vision is not quite affordable yet.|
+|345	|	quiet	|	callado	|	[ˈkwaɪ.ət](https://forvo.com/search/quiet/)|	I college I was very quiet.|
+|346	|	Strip	|	despojar	|	[strɪp](https://forvo.com/search/strip/)	|	We can use the strip method to get rid of white spaces|
+|347	|	get rid	|	deshacerse	|	[ɡɛtrɪd](https://youglish.com/pronounce/get%20rid/english?)	|	We need to get rid of the legacy code that's slowing down our software development process|
+|348	|	white space	|	espacio en blanco	|	[waɪtspeɪs](https://youglish.com/pronounce/white%20space/english?)	|	white spaces improve readbility in software development|
+|349	|	are gone	|	se fueron/ ya no existen	|	[ərɡɒn](https://youglish.com/pronounce/are%20gone/english?)	|	The older versions of our software are gone; we have upgraded to a much more efficient system|
+|350	|	remainder	|	residuo de una división	|	[remainder](https://forvo.com/search/remainder/)	|	After dividing the large dataset into smaller batches, there was a remainder of 10 data points|
+|351	|	unlike	|	improbable/ A DIFERENCIA DE	|	[https://forvo.com/search/unlike/	|	Python unlike java script doesn’t use ++ operator|
 |352	|	array	|	arreglo	|	https://forvo.com/search/array/	|	|
 |353	|	type conversion	|	tipado de datos	|	https://youglish.com/pronounce/type%20conversion/english?	|	Type conversation is the key to transform data for 1 format to another|
 |354	|	outcome	|	lo que arroje (resultado)	|	https://forvo.com/search/outcome/	|	If you are not explicit with your type you can get several outcomes|
