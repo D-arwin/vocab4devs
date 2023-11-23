@@ -359,9 +359,9 @@
 |291	|	languages	|	lenguajes	|	[ˈlæŋ.gwɪdʒ](https://forvo.com/search/languages/)	|	Mosh said that developers can agree on a single OS or a single programming language|
 |292	|	compiler	|	compilador	|	[kəmˈpaɪlər](https://forvo.com/search/compiler/)	|	The compiler translates the high-level programming code into machine language that the computer can understand.|
 |293	|	interpreter	|	interprete	|	[ɪnˈtɜː.prə.tər](https://forvo.com/search/interpreter/)	|	The Python interpreter converts and executes each line of code in real-time|
-|294	|	kicks in	|	arrancar/ activar	|	https://youglish.com/pronounce/kicks%20in/english/uk?	|	when you write to a chatbot an automatic response kicks in|
-|295	|	load	|	carga	|	https://forvo.com/search/load/	|	The programmer had to debug the issue when the software failed to load the required libraries correctly|
-|296	|	kick off	|	iniciar	|	[kɪksɪn](https://youglish.com/pronounce/kick%20off/english/uk?)	|	The development team will kick off the project by conducting a comprehensive analysis of the system requirements.|
+|294	|	kicks in	|	arrancar/ activar	|	[kɪksɪn](https://youglish.com/pronounce/kicks%20in/english/uk?)	|	when you write to a chatbot an automatic response kicks in|
+|295	|	load	|	carga	|	[ləʊd](https://forvo.com/search/load/)	|	The programmer had to debug the issue when the software failed to load the required libraries correctly|
+|296	|	kick off	|	iniciar	|	[kɪkɔf](https://youglish.com/pronounce/kick%20off/english/uk?)	|	The development team will kick off the project by conducting a comprehensive analysis of the system requirements.|
 |297	|	JVM	|	Máquina virtual Java	|	[ˌdʒeɪˌviːˈɛm](https://youglish.com/pronounce/JVM/english/uk?)	|	The Java Virtual Machine (JVM) is responsible for executing Java bytecode and providing a platform-independent runtime environment for Java applications.|
 |298	|	Byte vs Bite	|	Byte vs Bite	|	[baɪtvəsbaɪt](https://youglish.com/pronounce/Byte/english/uk?)	|	The file size is measured in bytes, with each byte representing a unit of digital information.|
 |299	|	Let you know	|	te lo haré saber	|	[lɛtjʊnoʊ](https://youglish.com/pronounce/Let%20you%20know/english/uk?)	|	Once the software update is complete, I will let you know so that you can test the new features and improvements.|
