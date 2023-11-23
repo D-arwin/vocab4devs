@@ -433,7 +433,7 @@
 |364	|	loop over	|	recorrer	|	[luːpˈoʊvər](https://youglish.com/pronounce/loop%20over/english?)	|	Python will loop over the list a couple times|
 |365	|	iterable	|	iterable	|	[ˈɪtərəbl̩](https://forvo.com/search/iterable/)	|	|
 |366	|	terminate a line	|	teminar una línea	|	[ˈtɛrmɪˌneɪtəlaɪn](https://youglish.com/pronounce/terminate%20a%20line/english?)	|	in Python we terminate lines|
-|367	|	comment out	|	comentar/ deshabilitar una sección de código	|	[ˈkɒmɛntaʊt]https://youglish.com/pronounce/comment%20out/english?	|	If you need to leave out some code sometimes it is better to comment it out  instead of deleating|
+|367	|	comment out	|	comentar/ deshabilitar una sección de código	|	[ˈkɒmɛntaʊt](https://youglish.com/pronounce/comment%20out/english?)	|	If you need to leave out some code sometimes it is better to comment it out  instead of deleating|
 |368	|	escape method	|	método de escape	|	[ɪˈskeɪpˈmɛθəd](https://youglish.com/pronounce/escape%20method/english?)	|	To avoid long loops you can use an escape method such as break|
 |369	|	flag	|	destacar, indicador	|	[flæɡ](https://forvo.com/search/flag/)	|	Using flags while coding can help you get a better understanding of what is happening|
 |370	|	range object	|	objeto de rango	|	[reɪndʒˈɒbdʒɪkt](https://youglish.com/pronounce/range%20object/english?)	|	A range object takes up less memory than a list|
