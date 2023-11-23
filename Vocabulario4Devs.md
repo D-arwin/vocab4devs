@@ -369,7 +369,7 @@
 |301	|	tasks	|	tareas	|	[tɑːsk](https://forvo.com/search/tasks/)	|	The project management software allows users to assign, track, and prioritize tasks for efficient collaboration within the IT team.|
 |302	|	primitive type	|	tipo primitivo	|	[ˈprɪmɪtɪvtaɪp](https://youglish.com/pronounce/primitive%20type/english/uk?)	|	Boolean, string, integers, and float are primitve values in Python|
 |303	|	Merged	|	fusión	|	[mɜːdʒ](https://forvo.com/search/merged/)	|	We can merge the database to consolidate the data|
-  |304	|	fixed	|	arreglar/fijar	|	[fɪkst(https://forvo.com/search/fixed/)	|	The developer fixed the bug|
+|304	|	fixed	|	arreglar/fijar	|	[fɪkst](https://forvo.com/search/fixed/)	|	The developer fixed the bug|
 | | |||								I fixed the types of variables at the begging when I use C#|
 |305	|	helped	|	ayudó/ ayudé	|	[hɛlpt](https://forvo.com/search/helped/)	|	The suppport team helped me log into my account|
 |306	|	coordinates	|	cordina/coordenadas	|	[kəʊˈɔː.dɪ.neɪt](https://forvo.com/search/coordinates/)	|	The system administrator used the precise coordinates to pinpoint the ecat location of the network issue.|
