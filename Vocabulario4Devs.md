@@ -416,71 +416,71 @@
 |347	|	get rid	|	deshacerse	|	[ɡɛtrɪd](https://youglish.com/pronounce/get%20rid/english?)	|	We need to get rid of the legacy code that's slowing down our software development process|
 |348	|	white space	|	espacio en blanco	|	[waɪtspeɪs](https://youglish.com/pronounce/white%20space/english?)	|	white spaces improve readbility in software development|
 |349	|	are gone	|	se fueron/ ya no existen	|	[ərɡɒn](https://youglish.com/pronounce/are%20gone/english?)	|	The older versions of our software are gone; we have upgraded to a much more efficient system|
-|350	|	remainder	|	residuo de una división	|	[remainder](https://forvo.com/search/remainder/)	|	After dividing the large dataset into smaller batches, there was a remainder of 10 data points|
-|351	|	unlike	|	improbable/ A DIFERENCIA DE	|	[https://forvo.com/search/unlike/	|	Python unlike java script doesn’t use ++ operator|
-|352	|	array	|	arreglo	|	https://forvo.com/search/array/	|	|
-|353	|	type conversion	|	tipado de datos	|	https://youglish.com/pronounce/type%20conversion/english?	|	Type conversation is the key to transform data for 1 format to another|
-|354	|	outcome	|	lo que arroje (resultado)	|	https://forvo.com/search/outcome/	|	If you are not explicit with your type you can get several outcomes|
-|355	|	strongly typed	|	tipado fuerte	|	https://youglish.com/pronounce/strongly%20typed/english?	|	Strongly typed languages enforce strict data type checking|
-|356	|	weakly typed	|	tipado debil	|	https://youglish.com/pronounce/weakly%20typed/english?	|	In a weakly typed programming language, variables can dynamically change their data type|
-|357	|	truthy	|	truthsy	|	https://youglish.com/pronounce/truthy%20value/english?	|	Any other value including the string false is a truthsy value|
-|358	|	falsy	|	falsy	|	https://youglish.com/pronounce/falsy%20value/english?	|	In Python the values 0, “”, null are considered falsy, false, Nan|
-|359	|	empty	|	vacío	|	https://forvo.com/search/empty/	|	In Python, you can check if a list is empty using the len() function|
-|360	|	null	|	nulo	|	https://forvo.com/search/null/	|	Null indicates the abscence of a value|
-|361	|	non/not/no	|	no	|	https://forvo.com/search/non/	|	No, not every non-trivial software development task can be completed quickly.”|
-|362	|	chaining	|	encadenar	|	https://forvo.com/search/chaining/	|	|
-|363	|	Ternary	|	ternario	|	https://forvo.com/search/ternary/	|	a ternary operation can be used to simplify the conditional statement in the code|
-|364	|	loop over	|	recorrer	|	https://youglish.com/pronounce/loop%20over/english?	|	Python will loop over the list a couple times|
-|365	|	iterable	|	iterable	|	https://forvo.com/search/iterable/	|	|
-|366	|	terminate a line	|	teminar una línea	|	https://youglish.com/pronounce/terminate%20a%20line/english?	|	in Python we terminate lines|
-|367	|	comment out	|	comentar/ deshabilitar una sección de código	|	https://youglish.com/pronounce/comment%20out/english?	|	If you need to leave out some code sometimes it is better to comment it out  instead of deleating|
-|368	|	escape method	|	método de escape	|	https://youglish.com/pronounce/escape%20method/english?	|	To avoid long loops you can use an escape method such as break|
-|369	|	flag	|	destacar, indicador	|	https://forvo.com/search/flag/	|	Using flags while coding can help you get a better understanding of what is happening|
-|370	|	range object	|	objeto de rango	|	https://youglish.com/pronounce/range%20object/english?	|	A range object takes up less memory than a list|
-|371	|	optional argument	|	argumental opcional	|	https://youglish.com/pronounce/optional%20argument/english?	|	step is an optional argument|
-|372	|	take up	|	consumir/ diferente de solo tomar	|	https://youglish.com/pronounce/take%20up/english?	|	The last update takes up 500 MB|
-|373	|	code snippet	|	recorte de código	|	https://youglish.com/pronounce/snippet/english	|	I just found a helpful code snippet that simplifies error handling in our Python project|
-|374	|	function parameter	|	parámetro de función	|	https://youglish.com/pronounce/function%20parameter/english?	|	by is a parameter of the function increment|
-|375	|	terminate	|	terminar	|	https://forvo.com/search/terminate/	|	Don't forget to terminate your line with a colon|
-|376	|	tuple	|	tupla	|	https://forvo.com/search/tuple/	|	In Python tuples are immutable|
-|377	|	overhead	|		|	https://forvo.com/search/overhead/	|	|
-|378	|	hint	|	pista	|	https://forvo.com/search/hint/	|	Linters give hints on how to apply the best practice while coding|
-|379	|	arbitrary	|	arbitrario	|	https://forvo.com/search/arbitrary/	|	|
-|380	|	so far so good	|	hasta aquí todo bien	|	https://youglish.com/pronounce/so%20far%20so%20good/english?	|	What’s the status of our project?|
+|350	|	remainder	|	residuo de una división	|	[rɪˈmeɪn.dɚ](https://forvo.com/search/remainder/)	|	After dividing the large dataset into smaller batches, there was a remainder of 10 data points|
+|351	|	unlike	|	improbable/ A DIFERENCIA DE	|	[ʌnˈlaɪk](https://forvo.com/search/unlike/)	|	Python unlike java script doesn’t use ++ operator|
+|352	|	array	|	arreglo	|	[əˈreɪ](https://forvo.com/search/array/)	|	|
+|353	|	type conversion	|	tipado de datos	|	[taɪpkənˈvɜrʒən](https://youglish.com/pronounce/type%20conversion/english?)	|	Type conversation is the key to transform data for 1 format to another|
+|354	|	outcome	|	lo que arroje (resultado)	|	[ˈaʊt.kʌm](https://forvo.com/search/outcome/)	|	If you are not explicit with your type you can get several outcomes|
+|355	|	strongly typed	|	tipado fuerte	|	[ˈstrɒŋlitaɪpt](https://youglish.com/pronounce/strongly%20typed/english?)	|	Strongly typed languages enforce strict data type checking|
+|356	|	weakly typed	|	tipado debil	|	[ˈwiːklitaɪpt](https://youglish.com/pronounce/weakly%20typed/english?)	|	In a weakly typed programming language, variables can dynamically change their data type|
+|357	|	truthy	|	truthsy	|	[ˈtruːθi](https://youglish.com/pronounce/truthy%20value/english?)	|	Any other value including the string false is a truthsy value|
+|358	|	falsy	|	falsy	|	[ˈfɔːlsi](https://youglish.com/pronounce/falsy%20value/english?)	|	In Python the values 0, “”, null are considered falsy, false, Nan|
+|359	|	empty	|	vacío	|	[ˈemp.ti](https://forvo.com/search/empty/)	|	In Python, you can check if a list is empty using the len() function|
+|360	|	null	|	nulo	|	[nʌl](https://forvo.com/search/null/)	|	Null indicates the abscence of a value|
+|361	|	non/not/no	|	no	|	[ˌnɒn](https://forvo.com/search/non/)	|	No, not every non-trivial software development task can be completed quickly.”|
+|362	|	chaining	|	encadenar	|	[ˈʧeɪnɪŋ](https://forvo.com/search/chaining/)	|	|
+|363	|	Ternary	|	ternario	|	[tɝː.nər.i](https://forvo.com/search/ternary/)	|	a ternary operation can be used to simplify the conditional statement in the code|
+|364	|	loop over	|	recorrer	|	[luːpˈoʊvər](https://youglish.com/pronounce/loop%20over/english?)	|	Python will loop over the list a couple times|
+|365	|	iterable	|	iterable	|	[ˈɪtərəbl̩](https://forvo.com/search/iterable/)	|	|
+|366	|	terminate a line	|	teminar una línea	|	[ˈtɛrmɪˌneɪtəlaɪn](https://youglish.com/pronounce/terminate%20a%20line/english?)	|	in Python we terminate lines|
+|367	|	comment out	|	comentar/ deshabilitar una sección de código	|	[ˈkɒmɛntaʊt]https://youglish.com/pronounce/comment%20out/english?	|	If you need to leave out some code sometimes it is better to comment it out  instead of deleating|
+|368	|	escape method	|	método de escape	|	[ɪˈskeɪpˈmɛθəd](https://youglish.com/pronounce/escape%20method/english?)	|	To avoid long loops you can use an escape method such as break|
+|369	|	flag	|	destacar, indicador	|	[flæɡ](https://forvo.com/search/flag/)	|	Using flags while coding can help you get a better understanding of what is happening|
+|370	|	range object	|	objeto de rango	|	[reɪndʒˈɒbdʒɪkt](https://youglish.com/pronounce/range%20object/english?)	|	A range object takes up less memory than a list|
+|371	|	optional argument	|	argumental opcional	|	[ˈɒpʃənlˈɑːɡjʊmənt](https://youglish.com/pronounce/optional%20argument/english?)	|	step is an optional argument|
+|372	|	take up	|	consumir/ diferente de solo tomar	|	[teɪkʌp](https://youglish.com/pronounce/take%20up/english?)	|	The last update takes up 500 MB|
+|373	|	code snippet	|	recorte de código	|	[koʊdsnɪpɪt](https://youglish.com/pronounce/snippet/english)	|	I just found a helpful code snippet that simplifies error handling in our Python project|
+|374	|	function parameter	|	parámetro de función	|	[ˈfʌŋkʃənpəˈræmɪtər](https://youglish.com/pronounce/function%20parameter/english?)	|	by is a parameter of the function increment|
+|375	|	terminate	|	terminar	|	[ˈtɜːrmɪneɪt](https://forvo.com/search/terminate/)	|	Don't forget to terminate your line with a colon|
+|376	|	tuple	|	tupla	|	[ˈtuːpəl](https://forvo.com/search/tuple/)	|	In Python tuples are immutable|
+|377	|	overhead	|		|	[ˈoʊ.vɚ.hed](https://forvo.com/search/overhead/)	|	|
+|378	|	hint	|	pista	|	[hɪnt](https://forvo.com/search/hint/)	|	Linters give hints on how to apply the best practice while coding|
+|379	|	arbitrary	|	arbitrario	|	[ˈɑːr.bə.trer.i](https://forvo.com/search/arbitrary/)	|	|
+|380	|	so far so good	|	hasta aquí todo bien	|	[soʊ fɑr soʊ ɡʊd](https://youglish.com/pronounce/so%20far%20so%20good/english?)	|	What’s the status of our project?|
 | | |||								So far so good|
-|381	|	however	|	sin embargo	|	https://forvo.com/search/however/	|	The software update improved performance however it introduced new bugs|
-|382	|	lecture	|	clase (expositiva)	|	https://forvo.com/search/lecture/	|	Mosh was our lecturer for today|
-|383	|	defining	|	definir/	|	https://forvo.com/search/defining/	|	Defining function signatures is essential|
-|384	|	dictionary	|	diccionario	|	https://forvo.com/search/dictionary/	|	A dictionary is a versatile data structure that allows you to store and retrieve key-value pairs efficiently|
-|385	|	finish up	|	terminar algo	|	https://youglish.com/pronounce/finish%20up/english?	|	Let me finish up this code|
-|386	|	scope/ block level	|	scope = alcance	|	https://youglish.com/pronounce/block%20level/english?	|	block-level scope defines the visibility of and accessibility of variables within a specific code block|
+|381	|	however	|	sin embargo	|	[ˌhaʊˈev.ɚ](https://forvo.com/search/however/)	|	The software update improved performance however it introduced new bugs|
+|382	|	lecture	|	clase (expositiva)	|	[ˈlek.tʃɚ](https://forvo.com/search/lecture/)	|	Mosh was our lecturer for today|
+|383	|	defining	|	definir/	|	[dɪˈfaɪ.nɪŋ](https://forvo.com/search/defining/)	|	Defining function signatures is essential|
+|384	|	dictionary	|	diccionario	|	[ˈdɪk.ʃən.er.i](https://forvo.com/search/dictionary/)	|	A dictionary is a versatile data structure that allows you to store and retrieve key-value pairs efficiently|
+|385	|	finish up	|	terminar algo	|	[ˈfɪnɪʃʌp](https://youglish.com/pronounce/finish%20up/english?)	|	Let me finish up this code|
+|386	|	scope/ block level	|	scope = alcance	|	[blɒkˈlɛvəl](https://youglish.com/pronounce/block%20level/english?)	|	block-level scope defines the visibility of and accessibility of variables within a specific code block|
 |		|	|	block level = a un nivel de bloque	|		|	|
-|387	|	no matter what	|		|	https://youglish.com/pronounce/no%20matter%20what/english?	|	|
-|388	|	from top to bottom	|		|	https://youglish.com/pronounce/from%20top%20to%20bottom/english?	|	|
-|389	|	rely	|		|	https://forvo.com/search/rely/	|	|
-|390	|	shortcuts	|	atajos	|	https://forvo.com/search/shortcut/	|	professional devs use shortcuts only|
-|391	|	JSON	|	Java Script Object Notation	|	https://youglish.com/pronounce/json/english?	|	when you start debugging vscode generates a JSON file|
-|392	|	step into	|	adentrarse	|	https://youglish.com/pronounce/step%20into/english?	|	Let’s step into the function|
-|393	|	cursor	|	cursor	|	https://forvo.com/search/cursor/	|	When I hover my cursor over this button it does nothing|
-|394	|	Alt	|		|	https://youglish.com/pronounce/alt/english?	|	Press alt slash to comment code|
-|395	|	Control	|		|	https://forvo.com/search/control/	|	Press ctrl and click to select multiple items|
-|396	|	Shift	|		|	https://forvo.com/search/shift/	|	You can keep shift pressed to highlight text|
-|397	|	Slash	|	Diagonal	|	https://forvo.com/search/slash/	|	Use slash at the end of the url to indicate the end of the adress|
-|398	|	toggle	|	cambiar	|	https://forvo.com/search/toggle/	|	Tggle night mode to let your eyes rest|
-|399	|	Hold on	|	dejar presionado	|	https://youglish.com/pronounce/hold%20on/english?	|	Hold on ctrl and left key arrow to go to the begin of the line|
-|400	|	algorithm	|	algoritmo	|	https://forvo.com/search/algorithm/	|	The youtube algorithm penalizes you for using a third party streaming service|
-|401	|	divisible	|	divisible	|	https://forvo.com/search/divisible/	|	this challenge will ask if a number is divisible by either  3, 5 or both|
-|402	|	embedded	|	incrustado	|	https://forvo.com/search/embedded/	|	This site has an embedded video player.|
-|403	|	zoom in	|		|	https://youglish.com/pronounce/zoom%20in/english?	|	|
-|404	|	zoom out	|		|	https://youglish.com/pronounce/zoom%20out/english?	|	|
-|405	|	output	|		|	https://forvo.com/search/output/	|	|
-|406	|	input	|		|	https://forvo.com/search/input/	|	|
-|407	|	version control	|		|	https://youglish.com/pronounce/version%20control/english?	|	|
-|408	|	squiggly lines	|		|	https://youglish.com/pronounce/squiggly%20lines/english?	|	|
-|409	|	identify	|		|	https://forvo.com/search/identify/	|	|
-|410	|	key value pair	|		|	https://youglish.com/pronounce/key%20value%20pair/english?	|	A Key value pair is a fundamental data structure that consists of a key and its value.|
-|411	|	surrounded by quotation marks	|	entre comillas	|	https://youglish.com/pronounce/surrounded%20by%20quotation%20marks/english?	|	Write your strings surrounded by quotation marks|
-|412	|	certain	|	Certero, preciso	| [Certain](https://forvo.com/search/certain/en/){:target="_blank"}		|After reviewing the server logs, we are certain that the system outage was caused by a DDoS attack.	|
+|387	|	no matter what	|		|	[noʊˈmætərwʌt](https://youglish.com/pronounce/no%20matter%20what/english?)	|	|
+|388	|	from top to bottom	|		|	[frɒmtɒptuˈbɒtəm](https://youglish.com/pronounce/from%20top%20to%20bottom/english?)	|	|
+|389	|	rely	|		|	[rɪˈlaɪ](https://forvo.com/search/rely/)	|	|
+|390	|	shortcuts	|	atajos	|	[ˈʃɔːrt-](https://forvo.com/search/shortcut/)	|	professional devs use shortcuts only|
+|391	|	JSON	|	Java Script Object Notation	|	[ˈdʒeɪsən](https://youglish.com/pronounce/json/english?)	|	when you start debugging vscode generates a JSON file|
+|392	|	step into	|	adentrarse	|	[stɛpˈɪntu](https://youglish.com/pronounce/step%20into/english?)	|	Let’s step into the function|
+|393	|	cursor	|	cursor	|	[ˈkɝː.sɚ](https://forvo.com/search/cursor/)	|	When I hover my cursor over this button it does nothing|
+|394	|	Alt	|		|	[ælt](https://youglish.com/pronounce/alt/english?)	|	Press alt slash to comment code|
+|395	|	Control	|		|	[kənˈtroʊl](https://forvo.com/search/control/)	|	Press ctrl and click to select multiple items|
+|396	|	Shift	|		|	[ʃɪft](https://forvo.com/search/shift/)	|	You can keep shift pressed to highlight text|
+|397	|	Slash	|	Diagonal	|	[slæʃ](https://forvo.com/search/slash/)	|	Use slash at the end of the url to indicate the end of the adress|
+|398	|	toggle	|	cambiar	|	[ˈtɑː.ɡəl](https://forvo.com/search/toggle/)	|	Tggle night mode to let your eyes rest|
+|399	|	Hold on	|	dejar presionado	|	[hoʊldɒn](https://youglish.com/pronounce/hold%20on/english?)	|	Hold on ctrl and left key arrow to go to the begin of the line|
+|400	|	algorithm	|	algoritmo	|	[ˈæl.ɡə.rɪ.ðəm](https://forvo.com/search/algorithm/)	|	The youtube algorithm penalizes you for using a third party streaming service|
+|401	|	divisible	|	divisible	|	[dɪˈvɪz.ə.bəl](https://forvo.com/search/divisible/)	|	this challenge will ask if a number is divisible by either  3, 5 or both|
+|402	|	embedded	|	incrustado	|	[ɪmˈbed.ɪd](https://forvo.com/search/embedded/)	|	This site has an embedded video player.|
+|403	|	zoom in	|		|	[zumɪn](https://youglish.com/pronounce/zoom%20in/english?)	|	|
+|404	|	zoom out	|		|	[zumaʊt](https://youglish.com/pronounce/zoom%20out/english?)	|	|
+|405	|	output	|		|	[ˈaʊt.pʊt](https://forvo.com/search/output/)	|	|
+|406	|	input	|		|	[ˈɪn.pʊ](https://forvo.com/search/input/)	|	|
+|407	|	version control	|		|	[ˈvɜːrʒənkənˈtroʊl](https://youglish.com/pronounce/version%20control/english?)	|	|
+|408	|	squiggly lines	|		|	[ˈskwɪɡlilaɪnz](https://youglish.com/pronounce/squiggly%20lines/english?)	|	|
+|409	|	identify	|		|	[aɪˈden.t̬ə.faɪ](https://forvo.com/search/identify/)	|	|
+|410	|	key value pair	|		|	[kiˈvæljuːpeər](https://youglish.com/pronounce/key%20value%20pair/english?)	|	A Key value pair is a fundamental data structure that consists of a key and its value.|
+|411	|	surrounded by quotation marks	|	entre comillas	|	[səˈraʊndɪdbaɪkwəˈteɪʃənmɑːrks](https://youglish.com/pronounce/surrounded%20by%20quotation%20marks/english?)	|	Write your strings surrounded by quotation marks|
+|412	|	certain	|	Certero, preciso	| [ˈsɝː.tən](https://forvo.com/search/certain/en/){:target="_blank"}		|After reviewing the server logs, we are certain that the system outage was caused by a DDoS attack.	|
 |413	|	pass in	|		|		|	|
 |414	|	stands for	|		|		|	|
 |415	|	NDA	|		|		|	|
@@ -488,7 +488,7 @@
 |417	|	line up	|		|		|	|
 |418	|	pass in	|		|		|	|
 |419	|	try outeets	|		|		|	|
-|420	|	Milestone	|Evento important en tu vida		|[Milestone](https://forvo.com/search/milestone/){:target="_blank"}	|Meeting the first milestone accelerated our software project's progress from design to coding.	|
+|420	|	Milestone	|Evento important en tu vida		|[ˈmaɪlstoʊn](https://forvo.com/search/milestone/){:target="_blank"}	|Meeting the first milestone accelerated our software project's progress from design to coding.	|
 |421	|	get up and running	|		|		|	|
 |	|	open source	|		|		|	|
 |	|	revert	|		|		|	|
@@ -504,8 +504,8 @@
 |	|	pull down	|		|		|	|
 |	|	commit	|		|		|	|
 |	|	push to origin	|		|		|	|
-|	|	command	|		comando|	https://forvo.com/search/command/	|	Coding requires understanding the precise use of command syntax to execute desired functions efficiently|
-|	|	.py	|	dot pai|	https://youglish.com/pronounce/.py/english	|	To automate the data analysis, we wrote a script in a .py file, which allowed us to process large datasets quickly and accurately|
+|	|	command	|		comando|	[kəˈmænd](https://forvo.com/search/command/)	|	Coding requires understanding the precise use of command syntax to execute desired functions efficiently|
+|	|	.py	|	dot pai|	[dɒtpaɪ](https://youglish.com/pronounce/.py/english)	|	To automate the data analysis, we wrote a script in a .py file, which allowed us to process large datasets quickly and accurately|
 |	|	Hash	mark|	signo de gato|		|	|
 |	|	Unexpected|	inesperado|		|	|
 |	|	Unindenteded|	inesperado|		|	|
