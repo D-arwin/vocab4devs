@@ -509,3 +509,7 @@
 |	|	Hash	mark|	signo de gato|		|	|
 |	|	Unexpected|	inesperado|		|	|
 |	|	Unindenteded|	inesperado|		|	|
+|	|	Multi-line|	inesperado|		|	|
+|	|	Bitwise|	inesperado|		|	|
+|	|	Entire|	inesperado|		|	|
+
