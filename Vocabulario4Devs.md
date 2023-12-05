@@ -512,4 +512,5 @@
 |	|	Multi-line|	inesperado|		|	|
 |	|	Bitwise|	inesperado|		|	|
 |	|	Entire|	inesperado|		|	|
+|	|	Escape|	|		|	|
 
