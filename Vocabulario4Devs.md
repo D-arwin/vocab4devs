@@ -513,4 +513,4 @@
 |	|	Bitwise|	inesperado|		|	|
 |	|	Entire|	inesperado|		|	|
 |	|	Escape|	|		|	|
-
+|	|	cipher| cifrado	|	https://youglish.com/pronounce/cipher/english?	|	|
